@@ -1,0 +1,3 @@
+[submodule "Coollab"]
+	path = Coollab
+	url = https://github.com/coolLibs/lab
