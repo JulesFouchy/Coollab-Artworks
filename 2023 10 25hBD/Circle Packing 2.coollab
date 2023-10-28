@@ -1,0 +1,559 @@
+{
+    "Project": {
+        "Coollab version": "beta-9 WIP",
+        "Time": {
+            "Time": 6.000000212225132e-7,
+            "Is playing": false
+        },
+        "View Constraint": {
+            "Is controlling the number of pixels": false,
+            "Number of pixels": 250000,
+            "Is controlling the aspect ratio": true,
+            "Aspect ratio": 1.0,
+            "Interpolation mode": 0
+        },
+        "Exporter (Image and Video)": {
+            "Exporter (Image and Video)": {
+                "ptr_wrapper": {
+                    "valid": 1,
+                    "data": {
+                        "Video Settings": {
+                            "FPS": 30.0,
+                            "Beginning": 0.0,
+                            "End": 10.0
+                        },
+                        "Image Size": {
+                            "Size": {
+                                "w": 1920,
+                                "h": 1080
+                            },
+                            "Aspect Ratio is Locked": true,
+                            "Aspect Ratio": 1.0
+                        },
+                        "Image Output Folder": {
+                            "nullopt": true
+                        },
+                        "Video Output Folder": {
+                            "nullopt": true
+                        }
+                    }
+                }
+            }
+        },
+        "Camera Manager": {
+            "Camera ID": {
+                "Underlying": {
+                    "ptr_wrapper": {
+                        "id": 2147483649,
+                        "data": {
+                            "UUID": "2b9c171e-c8b0-4e9e-9fa2-9d4e289b05dc",
+                            "Registry": {
+                                "index": 0,
+                                "data": {
+                                    "ptr_wrapper": {
+                                        "id": 2147483650,
+                                        "data": {
+                                            "Underlying container": [
+                                                {
+                                                    "key": "2b9c171e-c8b0-4e9e-9fa2-9d4e289b05dc",
+                                                    "value": {
+                                                        "Name": "",
+                                                        "Value": {
+                                                            "Transform": {
+                                                                "value0": 0.5494011640548706,
+                                                                "value1": 0.8355584740638733,
+                                                                "value2": 0.0,
+                                                                "value3": -0.0,
+                                                                "value4": -0.4202671945095062,
+                                                                "value5": 0.2763364911079407,
+                                                                "value6": 0.8642993569374085,
+                                                                "value7": 0.0,
+                                                                "value8": 0.7221728563308716,
+                                                                "value9": -0.4748471975326538,
+                                                                "value10": 0.5029775500297546,
+                                                                "value11": -0.0,
+                                                                "value12": 2.6478638648986818,
+                                                                "value13": -1.7410386800765992,
+                                                                "value14": 1.8441791534423829,
+                                                                "value15": 1.0
+                                                            },
+                                                            "Projection": {
+                                                                "Field of View (in radians)": 1.5707963705062867,
+                                                                "Near Plane": 0.10000000149011612,
+                                                                "Far Plane": 200.0
+                                                            }
+                                                        },
+                                                        "Metadata": {},
+                                                        "Default Value": {
+                                                            "Transform": {
+                                                                "value0": 0.5494011640548706,
+                                                                "value1": 0.8355584740638733,
+                                                                "value2": 0.0,
+                                                                "value3": -0.0,
+                                                                "value4": -0.4202671945095062,
+                                                                "value5": 0.2763364911079407,
+                                                                "value6": 0.8642993569374085,
+                                                                "value7": 0.0,
+                                                                "value8": 0.7221728563308716,
+                                                                "value9": -0.4748471975326538,
+                                                                "value10": 0.5029775500297546,
+                                                                "value11": -0.0,
+                                                                "value12": 2.6478638648986818,
+                                                                "value13": -1.7410386800765992,
+                                                                "value14": 1.8441791534423829,
+                                                                "value15": 1.0
+                                                            },
+                                                            "Projection": {
+                                                                "Field of View (in radians)": 1.5707963705062867,
+                                                                "Near Plane": 0.10000000149011612,
+                                                                "Far Plane": 200.0
+                                                            }
+                                                        },
+                                                        "Default Metadata": {}
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "ViewController": {
+                "Mode": 1,
+                "Translation Speed": 0.009999999776482582,
+                "Rotation Speed": 0.009999999776482582,
+                "Distance to Orbit Center": 5.0
+            },
+            "Is editable in view": false
+        },
+        "Camera 2D": {
+            "Name": "",
+            "Value": {
+                "Translation": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "Zoom": 1.0,
+                "Rotation": {
+                    "Radians": {
+                        "Radians": 0.0
+                    }
+                }
+            },
+            "Metadata": {
+                "Number of snaps": 24,
+                "Snaps offset (in radians)": 0.0,
+                "Always snap": false
+            },
+            "Default Value": {
+                "Translation": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "Zoom": 1.0,
+                "Rotation": {
+                    "Radians": {
+                        "Radians": 0.0
+                    }
+                }
+            },
+            "Default Metadata": {
+                "Number of snaps": 24,
+                "Snaps offset (in radians)": 0.0,
+                "Always snap": false
+            }
+        },
+        "Is camera 2D editable in view": true,
+        "Nodes Module": {
+            "polymorphic_id": 1073741824,
+            "ptr_wrapper": {
+                "valid": 1,
+                "data": {
+                    "Base Module": {
+                        "Name": "Nodes",
+                        "Dirty Flag": {
+                            "ID": {
+                                "Underlying": {
+                                    "ptr_wrapper": {
+                                        "id": 2147483651,
+                                        "data": {
+                                            "UUID": "cbaca357-4040-478f-b229-b4dfb702f524",
+                                            "Registry": {
+                                                "index": 0,
+                                                "data": {
+                                                    "ptr_wrapper": {
+                                                        "id": 2147483652,
+                                                        "data": {
+                                                            "Underlying container": [
+                                                                {
+                                                                    "key": "cbaca357-4040-478f-b229-b4dfb702f524",
+                                                                    "value": {
+                                                                        "Is Dirty": false
+                                                                    }
+                                                                },
+                                                                {
+                                                                    "key": "26567715-a996-4d5d-9ebc-8a59807df0ad",
+                                                                    "value": {
+                                                                        "Is Dirty": false
+                                                                    }
+                                                                },
+                                                                {
+                                                                    "key": "aac75a85-b54b-443d-a6ab-e8e7dea98d9d",
+                                                                    "value": {
+                                                                        "Is Dirty": false
+                                                                    }
+                                                                }
+                                                            ]
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "Dirty Flag: Regenerate Code": {
+                        "ID": {
+                            "Underlying": {
+                                "ptr_wrapper": {
+                                    "id": 2147483653,
+                                    "data": {
+                                        "UUID": "26567715-a996-4d5d-9ebc-8a59807df0ad",
+                                        "Registry": {
+                                            "index": 0,
+                                            "data": {
+                                                "ptr_wrapper": {
+                                                    "id": 4
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "Shader": {
+                        "Shader Dirty Flag": {
+                            "ID": {
+                                "Underlying": {
+                                    "ptr_wrapper": {
+                                        "id": 2147483654,
+                                        "data": {
+                                            "UUID": "aac75a85-b54b-443d-a6ab-e8e7dea98d9d",
+                                            "Registry": {
+                                                "index": 0,
+                                                "data": {
+                                                    "ptr_wrapper": {
+                                                        "id": 4
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "Node Editor": {
+                        "Pimpl": {
+                            "polymorphic_id": 2147483649,
+                            "polymorphic_name": "Cool::NodesEditorImpl",
+                            "ptr_wrapper": {
+                                "valid": 1,
+                                "data": {
+                                    "Graph": {
+                                        "Nodes": {
+                                            "Underlying container": []
+                                        },
+                                        "Links": {
+                                            "Underlying container": []
+                                        }
+                                    },
+                                    "Frame nodes": [],
+                                    "Context": {
+                                        "UI State": "{\"nodes\":null,\"selection\":null,\"view\":{\"scroll\":{\"x\":0,\"y\":0},\"visible_rect\":{\"max\":{\"x\":1165,\"y\":894},\"min\":{\"x\":0,\"y\":0}},\"zoom\":1}}"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "Main Node ID": "00000000-0000-0000-0000-000000000000",
+                    "Camera Input": {
+                        "Name": "Camera",
+                        "Default Variable ID": {
+                            "Underlying": {
+                                "ptr_wrapper": {
+                                    "id": 1
+                                }
+                            }
+                        },
+                        "Current Variable ID": "00000000-0000-0000-0000-000000000000",
+                        "Dirty Flag": {
+                            "ID": {
+                                "Underlying": {
+                                    "ptr_wrapper": {
+                                        "id": 3
+                                    }
+                                }
+                            }
+                        },
+                        "desired color space": 0
+                    }
+                }
+            }
+        },
+        "Variable Registries": {
+            "Underlying registries": {
+                "tuple_element0": {
+                    "Underlying registry": {
+                        "ptr_wrapper": {
+                            "id": 2147483655,
+                            "data": {
+                                "Underlying container": []
+                            }
+                        }
+                    }
+                },
+                "tuple_element1": {
+                    "Underlying registry": {
+                        "ptr_wrapper": {
+                            "id": 2147483656,
+                            "data": {
+                                "Underlying container": []
+                            }
+                        }
+                    }
+                },
+                "tuple_element2": {
+                    "Underlying registry": {
+                        "ptr_wrapper": {
+                            "id": 2147483657,
+                            "data": {
+                                "Underlying container": []
+                            }
+                        }
+                    }
+                },
+                "tuple_element3": {
+                    "Underlying registry": {
+                        "ptr_wrapper": {
+                            "id": 2147483658,
+                            "data": {
+                                "Underlying container": []
+                            }
+                        }
+                    }
+                },
+                "tuple_element4": {
+                    "Underlying registry": {
+                        "ptr_wrapper": {
+                            "id": 2147483659,
+                            "data": {
+                                "Underlying container": []
+                            }
+                        }
+                    }
+                },
+                "tuple_element5": {
+                    "Underlying registry": {
+                        "ptr_wrapper": {
+                            "id": 2147483660,
+                            "data": {
+                                "Underlying container": []
+                            }
+                        }
+                    }
+                },
+                "tuple_element6": {
+                    "Underlying registry": {
+                        "ptr_wrapper": {
+                            "id": 2147483661,
+                            "data": {
+                                "Underlying container": []
+                            }
+                        }
+                    }
+                },
+                "tuple_element7": {
+                    "Underlying registry": {
+                        "ptr_wrapper": {
+                            "id": 2147483662,
+                            "data": {
+                                "Underlying container": []
+                            }
+                        }
+                    }
+                },
+                "tuple_element8": {
+                    "Underlying registry": {
+                        "ptr_wrapper": {
+                            "id": 2147483663,
+                            "data": {
+                                "Underlying container": []
+                            }
+                        }
+                    }
+                },
+                "tuple_element9": {
+                    "Underlying registry": {
+                        "ptr_wrapper": {
+                            "id": 2
+                        }
+                    }
+                },
+                "tuple_element10": {
+                    "Underlying registry": {
+                        "ptr_wrapper": {
+                            "id": 2147483664,
+                            "data": {
+                                "Underlying container": []
+                            }
+                        }
+                    }
+                },
+                "tuple_element11": {
+                    "Underlying registry": {
+                        "ptr_wrapper": {
+                            "id": 2147483665,
+                            "data": {
+                                "Underlying container": []
+                            }
+                        }
+                    }
+                },
+                "tuple_element12": {
+                    "Underlying registry": {
+                        "ptr_wrapper": {
+                            "id": 2147483666,
+                            "data": {
+                                "Underlying container": []
+                            }
+                        }
+                    }
+                },
+                "tuple_element13": {
+                    "Underlying registry": {
+                        "ptr_wrapper": {
+                            "id": 2147483667,
+                            "data": {
+                                "Underlying container": []
+                            }
+                        }
+                    }
+                },
+                "tuple_element14": {
+                    "Underlying registry": {
+                        "ptr_wrapper": {
+                            "id": 2147483668,
+                            "data": {
+                                "Underlying container": []
+                            }
+                        }
+                    }
+                },
+                "tuple_element15": {
+                    "Underlying registry": {
+                        "ptr_wrapper": {
+                            "id": 2147483669,
+                            "data": {
+                                "Underlying container": []
+                            }
+                        }
+                    }
+                },
+                "tuple_element16": {
+                    "Underlying registry": {
+                        "ptr_wrapper": {
+                            "id": 2147483670,
+                            "data": {
+                                "Underlying container": []
+                            }
+                        }
+                    }
+                },
+                "tuple_element17": {
+                    "Underlying registry": {
+                        "ptr_wrapper": {
+                            "id": 2147483671,
+                            "data": {
+                                "Underlying container": []
+                            }
+                        }
+                    }
+                },
+                "tuple_element18": {
+                    "Underlying registry": {
+                        "ptr_wrapper": {
+                            "id": 2147483672,
+                            "data": {
+                                "Underlying container": []
+                            }
+                        }
+                    }
+                },
+                "tuple_element19": {
+                    "Underlying registry": {
+                        "ptr_wrapper": {
+                            "id": 2147483673,
+                            "data": {
+                                "Underlying container": []
+                            }
+                        }
+                    }
+                },
+                "tuple_element20": {
+                    "Underlying registry": {
+                        "ptr_wrapper": {
+                            "id": 2147483674,
+                            "data": {
+                                "Underlying container": []
+                            }
+                        }
+                    }
+                },
+                "tuple_element21": {
+                    "Underlying registry": {
+                        "ptr_wrapper": {
+                            "id": 2147483675,
+                            "data": {
+                                "Underlying container": []
+                            }
+                        }
+                    }
+                },
+                "tuple_element22": {
+                    "Underlying registry": {
+                        "ptr_wrapper": {
+                            "id": 2147483676,
+                            "data": {
+                                "Underlying container": []
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "History": {
+            "History": {
+                "Commits": [],
+                "Position in history": {
+                    "nullopt": true
+                },
+                "Max size": 1000
+            },
+            "Max saved size": 100
+        },
+        "Dirty Registry": {
+            "Underlying registry": {
+                "ptr_wrapper": {
+                    "id": 4
+                }
+            }
+        }
+    }
+}
