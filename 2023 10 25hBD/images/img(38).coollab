@@ -2322,6 +2322,117 @@
                                                     }
                                                 },
                                                 {
+                                                    "key": "ec1cff61-d7b0-4292-b433-5e1a8cb48384",
+                                                    "value": {
+                                                        "pimpl": {
+                                                            "polymorphic_id": 2,
+                                                            "ptr_wrapper": {
+                                                                "valid": 1,
+                                                                "data": {
+                                                                    "Node": {
+                                                                        "Name": "",
+                                                                        "Definition": {
+                                                                            "Definition name": "Webcam",
+                                                                            "Category name": "Image"
+                                                                        },
+                                                                        "Input Pins": [
+                                                                            {
+                                                                                "Base Pin": {
+                                                                                    "Name": "Webcam",
+                                                                                    "ID": "356e984d-f4fe-4321-a5a4-66b6c7cffd84"
+                                                                                }
+                                                                            }
+                                                                        ],
+                                                                        "Output Pins": [
+                                                                            {
+                                                                                "Base Pin": {
+                                                                                    "Name": "OUT",
+                                                                                    "ID": "79f773fe-f0c4-42de-8ba8-be0b9f9bf251"
+                                                                                }
+                                                                            }
+                                                                        ],
+                                                                        "Value inputs": [
+                                                                            {
+                                                                                "index": 17,
+                                                                                "data": {
+                                                                                    "Name": "Webcam",
+                                                                                    "Default Variable ID": {
+                                                                                        "Underlying": {
+                                                                                            "ptr_wrapper": {
+                                                                                                "id": 2147483683,
+                                                                                                "data": {
+                                                                                                    "UUID": "da482615-be78-4aa0-8de3-2e49e1b39d45",
+                                                                                                    "Registry": {
+                                                                                                        "index": 0,
+                                                                                                        "data": {
+                                                                                                            "ptr_wrapper": {
+                                                                                                                "id": 2147483684,
+                                                                                                                "data": {
+                                                                                                                    "Underlying container": [
+                                                                                                                        {
+                                                                                                                            "key": "da482615-be78-4aa0-8de3-2e49e1b39d45",
+                                                                                                                            "value": {
+                                                                                                                                "Name": "Webcam",
+                                                                                                                                "Value": {
+                                                                                                                                    "Source": {
+                                                                                                                                        "index": 1,
+                                                                                                                                        "data": {
+                                                                                                                                            "Webcam Name": "Integrated Camera"
+                                                                                                                                        }
+                                                                                                                                    },
+                                                                                                                                    "Sampler": {
+                                                                                                                                        "Repeat Mode": 0,
+                                                                                                                                        "Interpolation Mode": 9729
+                                                                                                                                    }
+                                                                                                                                },
+                                                                                                                                "Metadata": {},
+                                                                                                                                "Default Value": {
+                                                                                                                                    "Source": {
+                                                                                                                                        "index": 1,
+                                                                                                                                        "data": {
+                                                                                                                                            "Webcam Name": ""
+                                                                                                                                        }
+                                                                                                                                    },
+                                                                                                                                    "Sampler": {
+                                                                                                                                        "Repeat Mode": 0,
+                                                                                                                                        "Interpolation Mode": 9729
+                                                                                                                                    }
+                                                                                                                                },
+                                                                                                                                "Default Metadata": {}
+                                                                                                                            }
+                                                                                                                        }
+                                                                                                                    ]
+                                                                                                                }
+                                                                                                            }
+                                                                                                        }
+                                                                                                    }
+                                                                                                }
+                                                                                            }
+                                                                                        }
+                                                                                    },
+                                                                                    "Current Variable ID": "00000000-0000-0000-0000-000000000000",
+                                                                                    "Dirty Flag": {
+                                                                                        "ID": {
+                                                                                            "Underlying": {
+                                                                                                "ptr_wrapper": {
+                                                                                                    "id": 6
+                                                                                                }
+                                                                                            }
+                                                                                        }
+                                                                                    },
+                                                                                    "desired color space": 0
+                                                                                }
+                                                                            }
+                                                                        ],
+                                                                        "Number of main input pins": 0,
+                                                                        "Number of function inputs": 0
+                                                                    }
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                },
+                                                {
                                                     "key": "9c254ba5-4b32-486f-ac52-bd64effe08d9",
                                                     "value": {
                                                         "pimpl": {
@@ -2377,7 +2488,7 @@
                                                                                     "Default Variable ID": {
                                                                                         "Underlying": {
                                                                                             "ptr_wrapper": {
-                                                                                                "id": 2147483683,
+                                                                                                "id": 2147483685,
                                                                                                 "data": {
                                                                                                     "UUID": "3a68a896-8c4b-42ab-8477-35f9e2705ede",
                                                                                                     "Registry": {
@@ -2412,7 +2523,7 @@
                                                                                     "Default Variable ID": {
                                                                                         "Underlying": {
                                                                                             "ptr_wrapper": {
-                                                                                                "id": 2147483684,
+                                                                                                "id": 2147483686,
                                                                                                 "data": {
                                                                                                     "UUID": "9c6fbf7e-1dd1-4765-a730-003c5b42e691",
                                                                                                     "Registry": {
@@ -2447,14 +2558,14 @@
                                                                                     "Default Variable ID": {
                                                                                         "Underlying": {
                                                                                             "ptr_wrapper": {
-                                                                                                "id": 2147483685,
+                                                                                                "id": 2147483687,
                                                                                                 "data": {
                                                                                                     "UUID": "eb0e6cbe-6359-4ba6-a46c-725c1d4d6211",
                                                                                                     "Registry": {
                                                                                                         "index": 0,
                                                                                                         "data": {
                                                                                                             "ptr_wrapper": {
-                                                                                                                "id": 2147483686,
+                                                                                                                "id": 2147483688,
                                                                                                                 "data": {
                                                                                                                     "Underlying container": [
                                                                                                                         {
@@ -2558,7 +2669,7 @@
                                                                                     "Default Variable ID": {
                                                                                         "Underlying": {
                                                                                             "ptr_wrapper": {
-                                                                                                "id": 2147483687,
+                                                                                                "id": 2147483689,
                                                                                                 "data": {
                                                                                                     "UUID": "07f97d9f-7f31-45a7-82be-ddb238bd6b5c",
                                                                                                     "Registry": {
@@ -2593,7 +2704,7 @@
                                                                                     "Default Variable ID": {
                                                                                         "Underlying": {
                                                                                             "ptr_wrapper": {
-                                                                                                "id": 2147483688,
+                                                                                                "id": 2147483690,
                                                                                                 "data": {
                                                                                                     "UUID": "00d58078-441a-4dce-9472-ef3956353d73",
                                                                                                     "Registry": {
@@ -2663,17 +2774,17 @@
                                                     }
                                                 },
                                                 {
+                                                    "key": "ace82825-a8c5-4f85-90ca-a4269cfc4bda",
+                                                    "value": {
+                                                        "From pin": "79f773fe-f0c4-42de-8ba8-be0b9f9bf251",
+                                                        "To pin": "1183e63a-da62-402d-8091-f1a83a5a6c77"
+                                                    }
+                                                },
+                                                {
                                                     "key": "22bba01a-f6f8-48f3-9d18-5aa095c46e50",
                                                     "value": {
                                                         "From pin": "7ee9e495-dac3-4fc7-8015-659b26166cca",
                                                         "To pin": "941c1f63-8e13-472d-ba24-bbb9bf5d19d4"
-                                                    }
-                                                },
-                                                {
-                                                    "key": "ff3c7e25-b650-43d5-ad0a-163a1c0ef633",
-                                                    "value": {
-                                                        "From pin": "ba080788-92ba-413f-999f-7dea6308003d",
-                                                        "To pin": "1183e63a-da62-402d-8091-f1a83a5a6c77"
                                                     }
                                                 }
                                             ]
@@ -2681,7 +2792,7 @@
                                     },
                                     "Frame nodes": [],
                                     "Context": {
-                                        "UI State": "{\"nodes\":{\"node:10037533041320001776\":{\"location\":{\"x\":1288,\"y\":806}},\"node:10827012960807591712\":{\"location\":{\"x\":1896,\"y\":1430}},\"node:11119093026156383861\":{\"location\":{\"x\":1352,\"y\":1090}},\"node:15945594333743302056\":{\"location\":{\"x\":1323,\"y\":1364}},\"node:18249238395669255980\":{\"location\":{\"x\":1080,\"y\":814}},\"node:5641141330051451192\":{\"location\":{\"x\":1400,\"y\":1646}},\"node:740940232128718198\":{\"location\":{\"x\":1363,\"y\":398}},\"node:8018714437010269596\":{\"location\":{\"x\":1672,\"y\":1466}},\"node:9891672683571815579\":{\"location\":{\"x\":1128,\"y\":1134}},\"node:9964230360718501667\":{\"location\":{\"x\":1071,\"y\":434}}},\"selection\":null,\"view\":{\"scroll\":{\"x\":915.3707275390625,\"y\":877.9989013671875},\"visible_rect\":{\"max\":{\"x\":2305.172119140625,\"y\":1924.6226806640625},\"min\":{\"x\":994.21240234375,\"y\":953.6217041015625}},\"zoom\":0.920699357986450195}}"
+                                        "UI State": "{\"nodes\":{\"node:10037533041320001776\":{\"location\":{\"x\":1288,\"y\":806}},\"node:10539180517108948204\":{\"location\":{\"x\":1405,\"y\":1518}},\"node:10827012960807591712\":{\"location\":{\"x\":1896,\"y\":1430}},\"node:11119093026156383861\":{\"location\":{\"x\":1352,\"y\":1090}},\"node:15945594333743302056\":{\"location\":{\"x\":1323,\"y\":1364}},\"node:18249238395669255980\":{\"location\":{\"x\":1080,\"y\":814}},\"node:5641141330051451192\":{\"location\":{\"x\":1400,\"y\":1646}},\"node:740940232128718198\":{\"location\":{\"x\":1363,\"y\":398}},\"node:8018714437010269596\":{\"location\":{\"x\":1672,\"y\":1466}},\"node:9891672683571815579\":{\"location\":{\"x\":1128,\"y\":1134}},\"node:9964230360718501667\":{\"location\":{\"x\":1071,\"y\":434}}},\"selection\":[\"node:8018714437010269596\"],\"view\":{\"scroll\":{\"x\":893.3707275390625,\"y\":678.9989013671875},\"visible_rect\":{\"max\":{\"x\":2281.27734375,\"y\":1708.482666015625},\"min\":{\"x\":970.3175048828125,\"y\":737.481689453125}},\"zoom\":0.920699357986450195}}"
                                     }
                                 }
                             }
@@ -2717,7 +2828,7 @@
                 "tuple_element0": {
                     "Underlying registry": {
                         "ptr_wrapper": {
-                            "id": 2147483689,
+                            "id": 2147483691,
                             "data": {
                                 "Underlying container": []
                             }
@@ -2755,7 +2866,7 @@
                 "tuple_element5": {
                     "Underlying registry": {
                         "ptr_wrapper": {
-                            "id": 2147483690,
+                            "id": 2147483692,
                             "data": {
                                 "Underlying container": []
                             }
@@ -2765,7 +2876,7 @@
                 "tuple_element6": {
                     "Underlying registry": {
                         "ptr_wrapper": {
-                            "id": 2147483691,
+                            "id": 2147483693,
                             "data": {
                                 "Underlying container": []
                             }
@@ -2775,7 +2886,7 @@
                 "tuple_element7": {
                     "Underlying registry": {
                         "ptr_wrapper": {
-                            "id": 2147483692,
+                            "id": 2147483694,
                             "data": {
                                 "Underlying container": []
                             }
@@ -2785,7 +2896,7 @@
                 "tuple_element8": {
                     "Underlying registry": {
                         "ptr_wrapper": {
-                            "id": 2147483693,
+                            "id": 2147483695,
                             "data": {
                                 "Underlying container": []
                             }
@@ -2802,7 +2913,7 @@
                 "tuple_element10": {
                     "Underlying registry": {
                         "ptr_wrapper": {
-                            "id": 2147483694,
+                            "id": 2147483696,
                             "data": {
                                 "Underlying container": []
                             }
@@ -2812,31 +2923,11 @@
                 "tuple_element11": {
                     "Underlying registry": {
                         "ptr_wrapper": {
-                            "id": 38
+                            "id": 40
                         }
                     }
                 },
                 "tuple_element12": {
-                    "Underlying registry": {
-                        "ptr_wrapper": {
-                            "id": 2147483695,
-                            "data": {
-                                "Underlying container": []
-                            }
-                        }
-                    }
-                },
-                "tuple_element13": {
-                    "Underlying registry": {
-                        "ptr_wrapper": {
-                            "id": 2147483696,
-                            "data": {
-                                "Underlying container": []
-                            }
-                        }
-                    }
-                },
-                "tuple_element14": {
                     "Underlying registry": {
                         "ptr_wrapper": {
                             "id": 2147483697,
@@ -2846,10 +2937,30 @@
                         }
                     }
                 },
-                "tuple_element15": {
+                "tuple_element13": {
                     "Underlying registry": {
                         "ptr_wrapper": {
                             "id": 2147483698,
+                            "data": {
+                                "Underlying container": []
+                            }
+                        }
+                    }
+                },
+                "tuple_element14": {
+                    "Underlying registry": {
+                        "ptr_wrapper": {
+                            "id": 2147483699,
+                            "data": {
+                                "Underlying container": []
+                            }
+                        }
+                    }
+                },
+                "tuple_element15": {
+                    "Underlying registry": {
+                        "ptr_wrapper": {
+                            "id": 2147483700,
                             "data": {
                                 "Underlying container": []
                             }
@@ -2866,24 +2977,11 @@
                 "tuple_element17": {
                     "Underlying registry": {
                         "ptr_wrapper": {
-                            "id": 2147483699,
-                            "data": {
-                                "Underlying container": []
-                            }
+                            "id": 36
                         }
                     }
                 },
                 "tuple_element18": {
-                    "Underlying registry": {
-                        "ptr_wrapper": {
-                            "id": 2147483700,
-                            "data": {
-                                "Underlying container": []
-                            }
-                        }
-                    }
-                },
-                "tuple_element19": {
                     "Underlying registry": {
                         "ptr_wrapper": {
                             "id": 2147483701,
@@ -2893,7 +2991,7 @@
                         }
                     }
                 },
-                "tuple_element20": {
+                "tuple_element19": {
                     "Underlying registry": {
                         "ptr_wrapper": {
                             "id": 2147483702,
@@ -2903,7 +3001,7 @@
                         }
                     }
                 },
-                "tuple_element21": {
+                "tuple_element20": {
                     "Underlying registry": {
                         "ptr_wrapper": {
                             "id": 2147483703,
@@ -2913,10 +3011,20 @@
                         }
                     }
                 },
-                "tuple_element22": {
+                "tuple_element21": {
                     "Underlying registry": {
                         "ptr_wrapper": {
                             "id": 2147483704,
+                            "data": {
+                                "Underlying container": []
+                            }
+                        }
+                    }
+                },
+                "tuple_element22": {
+                    "Underlying registry": {
+                        "ptr_wrapper": {
+                            "id": 2147483705,
                             "data": {
                                 "Underlying container": []
                             }
@@ -2932,7 +3040,7 @@
                         "polymorphic_id": 2147483651,
                         "polymorphic_name": "Lab::PolymorphicReversibleCommand<Lab::ReversibleCommand_SetVariable<float>>",
                         "ptr_wrapper": {
-                            "id": 2147483705,
+                            "id": 2147483706,
                             "data": {
                                 "value0": {
                                     "Id": "8c97d9f2-35c8-4832-9f97-d08cb6e9ff51",
@@ -2945,7 +3053,7 @@
                     {
                         "polymorphic_id": 3,
                         "ptr_wrapper": {
-                            "id": 2147483706,
+                            "id": 2147483707,
                             "data": {
                                 "value0": {
                                     "Id": "8c97d9f2-35c8-4832-9f97-d08cb6e9ff51",
@@ -2958,7 +3066,7 @@
                     {
                         "polymorphic_id": 3,
                         "ptr_wrapper": {
-                            "id": 2147483707,
+                            "id": 2147483708,
                             "data": {
                                 "value0": {
                                     "Id": "8c97d9f2-35c8-4832-9f97-d08cb6e9ff51",
@@ -2972,7 +3080,7 @@
                         "polymorphic_id": 2147483652,
                         "polymorphic_name": "Lab::PolymorphicReversibleCommand<Lab::ReversibleCommand_SetVariable<Cool::Camera>>",
                         "ptr_wrapper": {
-                            "id": 2147483708,
+                            "id": 2147483709,
                             "data": {
                                 "value0": {
                                     "Id": "27174d7b-d20a-4115-9935-8de7af034e87",
@@ -3033,7 +3141,7 @@
                     {
                         "polymorphic_id": 3,
                         "ptr_wrapper": {
-                            "id": 2147483709,
+                            "id": 2147483710,
                             "data": {
                                 "value0": {
                                     "Id": "a0c87380-b7e5-4c4f-b9f3-a058bd2676b5",
@@ -3046,7 +3154,7 @@
                     {
                         "polymorphic_id": 3,
                         "ptr_wrapper": {
-                            "id": 2147483710,
+                            "id": 2147483711,
                             "data": {
                                 "value0": {
                                     "Id": "dbf05263-aa62-4d75-a333-1c05bd3da8d2",
@@ -3059,7 +3167,7 @@
                     {
                         "polymorphic_id": 3,
                         "ptr_wrapper": {
-                            "id": 2147483711,
+                            "id": 2147483712,
                             "data": {
                                 "value0": {
                                     "Id": "a0c87380-b7e5-4c4f-b9f3-a058bd2676b5",
@@ -3072,7 +3180,7 @@
                     {
                         "polymorphic_id": 3,
                         "ptr_wrapper": {
-                            "id": 2147483712,
+                            "id": 2147483713,
                             "data": {
                                 "value0": {
                                     "Id": "dbf05263-aa62-4d75-a333-1c05bd3da8d2",
@@ -3085,7 +3193,7 @@
                     {
                         "polymorphic_id": 3,
                         "ptr_wrapper": {
-                            "id": 2147483713,
+                            "id": 2147483714,
                             "data": {
                                 "value0": {
                                     "Id": "a0c87380-b7e5-4c4f-b9f3-a058bd2676b5",
@@ -3098,7 +3206,7 @@
                     {
                         "polymorphic_id": 3,
                         "ptr_wrapper": {
-                            "id": 2147483714,
+                            "id": 2147483715,
                             "data": {
                                 "value0": {
                                     "Id": "a0c87380-b7e5-4c4f-b9f3-a058bd2676b5",
@@ -3111,7 +3219,7 @@
                     {
                         "polymorphic_id": 3,
                         "ptr_wrapper": {
-                            "id": 2147483715,
+                            "id": 2147483716,
                             "data": {
                                 "value0": {
                                     "Id": "a0c87380-b7e5-4c4f-b9f3-a058bd2676b5",
@@ -3124,7 +3232,7 @@
                     {
                         "polymorphic_id": 3,
                         "ptr_wrapper": {
-                            "id": 2147483716,
+                            "id": 2147483717,
                             "data": {
                                 "value0": {
                                     "Id": "a0c87380-b7e5-4c4f-b9f3-a058bd2676b5",
@@ -3138,7 +3246,7 @@
                         "polymorphic_id": 2147483653,
                         "polymorphic_name": "Lab::PolymorphicReversibleCommand<Lab::ReversibleCommand_SetVariable<int>>",
                         "ptr_wrapper": {
-                            "id": 2147483717,
+                            "id": 2147483718,
                             "data": {
                                 "value0": {
                                     "Id": "55070879-2ebf-451b-ad6d-dc8fa4684503",
@@ -3151,7 +3259,7 @@
                     {
                         "polymorphic_id": 4,
                         "ptr_wrapper": {
-                            "id": 2147483718,
+                            "id": 2147483719,
                             "data": {
                                 "value0": {
                                     "Id": "27174d7b-d20a-4115-9935-8de7af034e87",
@@ -3212,7 +3320,7 @@
                     {
                         "polymorphic_id": 3,
                         "ptr_wrapper": {
-                            "id": 2147483719,
+                            "id": 2147483720,
                             "data": {
                                 "value0": {
                                     "Id": "86dcfbc6-37c6-4984-b93c-2dc5634a73ab",
@@ -3225,7 +3333,7 @@
                     {
                         "polymorphic_id": 3,
                         "ptr_wrapper": {
-                            "id": 2147483720,
+                            "id": 2147483721,
                             "data": {
                                 "value0": {
                                     "Id": "e780115e-4e58-4a2a-8203-7aee4a5512c9",
@@ -3238,7 +3346,7 @@
                     {
                         "polymorphic_id": 3,
                         "ptr_wrapper": {
-                            "id": 2147483721,
+                            "id": 2147483722,
                             "data": {
                                 "value0": {
                                     "Id": "bf1797d8-a5bd-48cb-b382-ba77ca6297e0",
@@ -3251,7 +3359,7 @@
                     {
                         "polymorphic_id": 3,
                         "ptr_wrapper": {
-                            "id": 2147483722,
+                            "id": 2147483723,
                             "data": {
                                 "value0": {
                                     "Id": "e780115e-4e58-4a2a-8203-7aee4a5512c9",
@@ -3264,7 +3372,7 @@
                     {
                         "polymorphic_id": 3,
                         "ptr_wrapper": {
-                            "id": 2147483723,
+                            "id": 2147483724,
                             "data": {
                                 "value0": {
                                     "Id": "bf1797d8-a5bd-48cb-b382-ba77ca6297e0",
@@ -3277,7 +3385,7 @@
                     {
                         "polymorphic_id": 3,
                         "ptr_wrapper": {
-                            "id": 2147483724,
+                            "id": 2147483725,
                             "data": {
                                 "value0": {
                                     "Id": "e780115e-4e58-4a2a-8203-7aee4a5512c9",
@@ -3290,7 +3398,7 @@
                     {
                         "polymorphic_id": 3,
                         "ptr_wrapper": {
-                            "id": 2147483725,
+                            "id": 2147483726,
                             "data": {
                                 "value0": {
                                     "Id": "bf1797d8-a5bd-48cb-b382-ba77ca6297e0",
@@ -3303,7 +3411,7 @@
                     {
                         "polymorphic_id": 3,
                         "ptr_wrapper": {
-                            "id": 2147483726,
+                            "id": 2147483727,
                             "data": {
                                 "value0": {
                                     "Id": "bf1797d8-a5bd-48cb-b382-ba77ca6297e0",
@@ -3316,7 +3424,7 @@
                     {
                         "polymorphic_id": 3,
                         "ptr_wrapper": {
-                            "id": 2147483727,
+                            "id": 2147483728,
                             "data": {
                                 "value0": {
                                     "Id": "e780115e-4e58-4a2a-8203-7aee4a5512c9",
@@ -3329,7 +3437,7 @@
                     {
                         "polymorphic_id": 3,
                         "ptr_wrapper": {
-                            "id": 2147483728,
+                            "id": 2147483729,
                             "data": {
                                 "value0": {
                                     "Id": "bf1797d8-a5bd-48cb-b382-ba77ca6297e0",
@@ -3342,7 +3450,7 @@
                     {
                         "polymorphic_id": 3,
                         "ptr_wrapper": {
-                            "id": 2147483729,
+                            "id": 2147483730,
                             "data": {
                                 "value0": {
                                     "Id": "e780115e-4e58-4a2a-8203-7aee4a5512c9",
@@ -3355,7 +3463,7 @@
                     {
                         "polymorphic_id": 3,
                         "ptr_wrapper": {
-                            "id": 2147483730,
+                            "id": 2147483731,
                             "data": {
                                 "value0": {
                                     "Id": "bf1797d8-a5bd-48cb-b382-ba77ca6297e0",
@@ -3368,7 +3476,7 @@
                     {
                         "polymorphic_id": 3,
                         "ptr_wrapper": {
-                            "id": 2147483731,
+                            "id": 2147483732,
                             "data": {
                                 "value0": {
                                     "Id": "bf1797d8-a5bd-48cb-b382-ba77ca6297e0",
@@ -3381,7 +3489,7 @@
                     {
                         "polymorphic_id": 5,
                         "ptr_wrapper": {
-                            "id": 2147483732,
+                            "id": 2147483733,
                             "data": {
                                 "value0": {
                                     "Id": "bb1c1972-45e8-46e5-a78d-984d6f1f90c4",
@@ -3394,7 +3502,7 @@
                     {
                         "polymorphic_id": 3,
                         "ptr_wrapper": {
-                            "id": 2147483733,
+                            "id": 2147483734,
                             "data": {
                                 "value0": {
                                     "Id": "e780115e-4e58-4a2a-8203-7aee4a5512c9",
@@ -3408,7 +3516,7 @@
                         "polymorphic_id": 2147483654,
                         "polymorphic_name": "Lab::PolymorphicReversibleCommand<Lab::ReversibleCommand_SetVariable<glm::vec2>>",
                         "ptr_wrapper": {
-                            "id": 2147483734,
+                            "id": 2147483735,
                             "data": {
                                 "value0": {
                                     "Id": "d5862097-f473-43f8-9d19-0c5a89c9cb77",
@@ -3427,7 +3535,7 @@
                     {
                         "polymorphic_id": 6,
                         "ptr_wrapper": {
-                            "id": 2147483735,
+                            "id": 2147483736,
                             "data": {
                                 "value0": {
                                     "Id": "d5862097-f473-43f8-9d19-0c5a89c9cb77",
@@ -3446,7 +3554,7 @@
                     {
                         "polymorphic_id": 6,
                         "ptr_wrapper": {
-                            "id": 2147483736,
+                            "id": 2147483737,
                             "data": {
                                 "value0": {
                                     "Id": "0a12861e-8f54-41fd-b3df-bcc18f70bacf",
@@ -3465,7 +3573,7 @@
                     {
                         "polymorphic_id": 6,
                         "ptr_wrapper": {
-                            "id": 2147483737,
+                            "id": 2147483738,
                             "data": {
                                 "value0": {
                                     "Id": "5c378971-0fa3-4157-a8d3-ede8ef0144ed",
@@ -3484,7 +3592,7 @@
                     {
                         "polymorphic_id": 6,
                         "ptr_wrapper": {
-                            "id": 2147483738,
+                            "id": 2147483739,
                             "data": {
                                 "value0": {
                                     "Id": "7682e8a3-49ad-4d2d-826e-c640969cc949",
@@ -3503,7 +3611,7 @@
                     {
                         "polymorphic_id": 3,
                         "ptr_wrapper": {
-                            "id": 2147483739,
+                            "id": 2147483740,
                             "data": {
                                 "value0": {
                                     "Id": "bf1797d8-a5bd-48cb-b382-ba77ca6297e0",
@@ -3516,7 +3624,7 @@
                     {
                         "polymorphic_id": 4,
                         "ptr_wrapper": {
-                            "id": 2147483740,
+                            "id": 2147483741,
                             "data": {
                                 "value0": {
                                     "Id": "27174d7b-d20a-4115-9935-8de7af034e87",
@@ -3577,7 +3685,7 @@
                     {
                         "polymorphic_id": 3,
                         "ptr_wrapper": {
-                            "id": 2147483741,
+                            "id": 2147483742,
                             "data": {
                                 "value0": {
                                     "Id": "bf1797d8-a5bd-48cb-b382-ba77ca6297e0",
@@ -3590,7 +3698,7 @@
                     {
                         "polymorphic_id": 3,
                         "ptr_wrapper": {
-                            "id": 2147483742,
+                            "id": 2147483743,
                             "data": {
                                 "value0": {
                                     "Id": "bf1797d8-a5bd-48cb-b382-ba77ca6297e0",
@@ -3603,7 +3711,7 @@
                     {
                         "polymorphic_id": 3,
                         "ptr_wrapper": {
-                            "id": 2147483743,
+                            "id": 2147483744,
                             "data": {
                                 "value0": {
                                     "Id": "bf1797d8-a5bd-48cb-b382-ba77ca6297e0",
@@ -3616,7 +3724,7 @@
                     {
                         "polymorphic_id": 3,
                         "ptr_wrapper": {
-                            "id": 2147483744,
+                            "id": 2147483745,
                             "data": {
                                 "value0": {
                                     "Id": "bf1797d8-a5bd-48cb-b382-ba77ca6297e0",
@@ -3629,7 +3737,7 @@
                     {
                         "polymorphic_id": 3,
                         "ptr_wrapper": {
-                            "id": 2147483745,
+                            "id": 2147483746,
                             "data": {
                                 "value0": {
                                     "Id": "bf1797d8-a5bd-48cb-b382-ba77ca6297e0",
@@ -3642,7 +3750,7 @@
                     {
                         "polymorphic_id": 3,
                         "ptr_wrapper": {
-                            "id": 2147483746,
+                            "id": 2147483747,
                             "data": {
                                 "value0": {
                                     "Id": "bf1797d8-a5bd-48cb-b382-ba77ca6297e0",
@@ -3655,7 +3763,7 @@
                     {
                         "polymorphic_id": 3,
                         "ptr_wrapper": {
-                            "id": 2147483747,
+                            "id": 2147483748,
                             "data": {
                                 "value0": {
                                     "Id": "bf1797d8-a5bd-48cb-b382-ba77ca6297e0",
@@ -3668,7 +3776,7 @@
                     {
                         "polymorphic_id": 3,
                         "ptr_wrapper": {
-                            "id": 2147483748,
+                            "id": 2147483749,
                             "data": {
                                 "value0": {
                                     "Id": "61c273ab-c24b-49cf-892f-e18eb0ae4afc",
@@ -3681,7 +3789,7 @@
                     {
                         "polymorphic_id": 3,
                         "ptr_wrapper": {
-                            "id": 2147483749,
+                            "id": 2147483750,
                             "data": {
                                 "value0": {
                                     "Id": "bf1797d8-a5bd-48cb-b382-ba77ca6297e0",
@@ -3694,7 +3802,7 @@
                     {
                         "polymorphic_id": 3,
                         "ptr_wrapper": {
-                            "id": 2147483750,
+                            "id": 2147483751,
                             "data": {
                                 "value0": {
                                     "Id": "61c273ab-c24b-49cf-892f-e18eb0ae4afc",
@@ -3707,7 +3815,7 @@
                     {
                         "polymorphic_id": 3,
                         "ptr_wrapper": {
-                            "id": 2147483751,
+                            "id": 2147483752,
                             "data": {
                                 "value0": {
                                     "Id": "bf1797d8-a5bd-48cb-b382-ba77ca6297e0",
@@ -3720,7 +3828,7 @@
                     {
                         "polymorphic_id": 3,
                         "ptr_wrapper": {
-                            "id": 2147483752,
+                            "id": 2147483753,
                             "data": {
                                 "value0": {
                                     "Id": "61c273ab-c24b-49cf-892f-e18eb0ae4afc",
@@ -3733,7 +3841,7 @@
                     {
                         "polymorphic_id": 3,
                         "ptr_wrapper": {
-                            "id": 2147483753,
+                            "id": 2147483754,
                             "data": {
                                 "value0": {
                                     "Id": "bf1797d8-a5bd-48cb-b382-ba77ca6297e0",
@@ -3746,7 +3854,7 @@
                     {
                         "polymorphic_id": 3,
                         "ptr_wrapper": {
-                            "id": 2147483754,
+                            "id": 2147483755,
                             "data": {
                                 "value0": {
                                     "Id": "e780115e-4e58-4a2a-8203-7aee4a5512c9",
@@ -3759,7 +3867,7 @@
                     {
                         "polymorphic_id": 3,
                         "ptr_wrapper": {
-                            "id": 2147483755,
+                            "id": 2147483756,
                             "data": {
                                 "value0": {
                                     "Id": "bdc77092-3ef4-44f6-a023-28acc158bec2",
@@ -3772,7 +3880,7 @@
                     {
                         "polymorphic_id": 3,
                         "ptr_wrapper": {
-                            "id": 2147483756,
+                            "id": 2147483757,
                             "data": {
                                 "value0": {
                                     "Id": "e780115e-4e58-4a2a-8203-7aee4a5512c9",
@@ -3785,7 +3893,7 @@
                     {
                         "polymorphic_id": 3,
                         "ptr_wrapper": {
-                            "id": 2147483757,
+                            "id": 2147483758,
                             "data": {
                                 "value0": {
                                     "Id": "e780115e-4e58-4a2a-8203-7aee4a5512c9",
@@ -3798,7 +3906,7 @@
                     {
                         "polymorphic_id": 3,
                         "ptr_wrapper": {
-                            "id": 2147483758,
+                            "id": 2147483759,
                             "data": {
                                 "value0": {
                                     "Id": "bdc77092-3ef4-44f6-a023-28acc158bec2",
@@ -3811,7 +3919,7 @@
                     {
                         "polymorphic_id": 3,
                         "ptr_wrapper": {
-                            "id": 2147483759,
+                            "id": 2147483760,
                             "data": {
                                 "value0": {
                                     "Id": "bdc77092-3ef4-44f6-a023-28acc158bec2",
@@ -3824,7 +3932,7 @@
                     {
                         "polymorphic_id": 3,
                         "ptr_wrapper": {
-                            "id": 2147483760,
+                            "id": 2147483761,
                             "data": {
                                 "value0": {
                                     "Id": "61c273ab-c24b-49cf-892f-e18eb0ae4afc",
@@ -3837,7 +3945,7 @@
                     {
                         "polymorphic_id": 3,
                         "ptr_wrapper": {
-                            "id": 2147483761,
+                            "id": 2147483762,
                             "data": {
                                 "value0": {
                                     "Id": "bdc77092-3ef4-44f6-a023-28acc158bec2",
@@ -3850,7 +3958,7 @@
                     {
                         "polymorphic_id": 3,
                         "ptr_wrapper": {
-                            "id": 2147483762,
+                            "id": 2147483763,
                             "data": {
                                 "value0": {
                                     "Id": "e780115e-4e58-4a2a-8203-7aee4a5512c9",
@@ -3863,7 +3971,7 @@
                     {
                         "polymorphic_id": 3,
                         "ptr_wrapper": {
-                            "id": 2147483763,
+                            "id": 2147483764,
                             "data": {
                                 "value0": {
                                     "Id": "61c273ab-c24b-49cf-892f-e18eb0ae4afc",
@@ -3876,7 +3984,7 @@
                     {
                         "polymorphic_id": 3,
                         "ptr_wrapper": {
-                            "id": 2147483764,
+                            "id": 2147483765,
                             "data": {
                                 "value0": {
                                     "Id": "bdc77092-3ef4-44f6-a023-28acc158bec2",
@@ -3889,7 +3997,7 @@
                     {
                         "polymorphic_id": 3,
                         "ptr_wrapper": {
-                            "id": 2147483765,
+                            "id": 2147483766,
                             "data": {
                                 "value0": {
                                     "Id": "e780115e-4e58-4a2a-8203-7aee4a5512c9",
@@ -3902,7 +4010,7 @@
                     {
                         "polymorphic_id": 3,
                         "ptr_wrapper": {
-                            "id": 2147483766,
+                            "id": 2147483767,
                             "data": {
                                 "value0": {
                                     "Id": "bf1797d8-a5bd-48cb-b382-ba77ca6297e0",
@@ -3915,7 +4023,7 @@
                     {
                         "polymorphic_id": 3,
                         "ptr_wrapper": {
-                            "id": 2147483767,
+                            "id": 2147483768,
                             "data": {
                                 "value0": {
                                     "Id": "bf1797d8-a5bd-48cb-b382-ba77ca6297e0",
@@ -3928,7 +4036,7 @@
                     {
                         "polymorphic_id": 5,
                         "ptr_wrapper": {
-                            "id": 2147483768,
+                            "id": 2147483769,
                             "data": {
                                 "value0": {
                                     "Id": "bb1c1972-45e8-46e5-a78d-984d6f1f90c4",
@@ -3941,7 +4049,7 @@
                     {
                         "polymorphic_id": 3,
                         "ptr_wrapper": {
-                            "id": 2147483769,
+                            "id": 2147483770,
                             "data": {
                                 "value0": {
                                     "Id": "bf1797d8-a5bd-48cb-b382-ba77ca6297e0",
@@ -3954,7 +4062,7 @@
                     {
                         "polymorphic_id": 3,
                         "ptr_wrapper": {
-                            "id": 2147483770,
+                            "id": 2147483771,
                             "data": {
                                 "value0": {
                                     "Id": "bf1797d8-a5bd-48cb-b382-ba77ca6297e0",
@@ -3967,7 +4075,7 @@
                     {
                         "polymorphic_id": 3,
                         "ptr_wrapper": {
-                            "id": 2147483771,
+                            "id": 2147483772,
                             "data": {
                                 "value0": {
                                     "Id": "bf1797d8-a5bd-48cb-b382-ba77ca6297e0",
@@ -3980,7 +4088,7 @@
                     {
                         "polymorphic_id": 5,
                         "ptr_wrapper": {
-                            "id": 2147483772,
+                            "id": 2147483773,
                             "data": {
                                 "value0": {
                                     "Id": "bb1c1972-45e8-46e5-a78d-984d6f1f90c4",
@@ -3993,7 +4101,7 @@
                     {
                         "polymorphic_id": 5,
                         "ptr_wrapper": {
-                            "id": 2147483773,
+                            "id": 2147483774,
                             "data": {
                                 "value0": {
                                     "Id": "44c7b720-4ad6-48f8-a4e1-35b449791602",
@@ -4006,7 +4114,7 @@
                     {
                         "polymorphic_id": 3,
                         "ptr_wrapper": {
-                            "id": 2147483774,
+                            "id": 2147483775,
                             "data": {
                                 "value0": {
                                     "Id": "dd8db65d-c2fe-4e13-bc70-1c93238d7b6e",
@@ -4019,7 +4127,7 @@
                     {
                         "polymorphic_id": 3,
                         "ptr_wrapper": {
-                            "id": 2147483775,
+                            "id": 2147483776,
                             "data": {
                                 "value0": {
                                     "Id": "2225afa8-07db-41eb-be01-077be50689e1",
@@ -4032,7 +4140,7 @@
                     {
                         "polymorphic_id": 3,
                         "ptr_wrapper": {
-                            "id": 2147483776,
+                            "id": 2147483777,
                             "data": {
                                 "value0": {
                                     "Id": "2225afa8-07db-41eb-be01-077be50689e1",
@@ -4045,7 +4153,7 @@
                     {
                         "polymorphic_id": 3,
                         "ptr_wrapper": {
-                            "id": 2147483777,
+                            "id": 2147483778,
                             "data": {
                                 "value0": {
                                     "Id": "2225afa8-07db-41eb-be01-077be50689e1",
@@ -4058,7 +4166,7 @@
                     {
                         "polymorphic_id": 4,
                         "ptr_wrapper": {
-                            "id": 2147483778,
+                            "id": 2147483779,
                             "data": {
                                 "value0": {
                                     "Id": "27174d7b-d20a-4115-9935-8de7af034e87",
@@ -4119,7 +4227,7 @@
                     {
                         "polymorphic_id": 5,
                         "ptr_wrapper": {
-                            "id": 2147483779,
+                            "id": 2147483780,
                             "data": {
                                 "value0": {
                                     "Id": "98ccc1fb-eb2e-42da-95e1-8c483a703e12",
@@ -4132,7 +4240,7 @@
                     {
                         "polymorphic_id": 3,
                         "ptr_wrapper": {
-                            "id": 2147483780,
+                            "id": 2147483781,
                             "data": {
                                 "value0": {
                                     "Id": "02b606c9-ffa8-446f-b13a-bddb5ce8262f",
@@ -4145,7 +4253,7 @@
                     {
                         "polymorphic_id": 3,
                         "ptr_wrapper": {
-                            "id": 2147483781,
+                            "id": 2147483782,
                             "data": {
                                 "value0": {
                                     "Id": "41f5c62a-ac85-40e9-9357-af591f0d2fe4",
@@ -4158,7 +4266,7 @@
                     {
                         "polymorphic_id": 3,
                         "ptr_wrapper": {
-                            "id": 2147483782,
+                            "id": 2147483783,
                             "data": {
                                 "value0": {
                                     "Id": "2225afa8-07db-41eb-be01-077be50689e1",
@@ -4171,7 +4279,7 @@
                     {
                         "polymorphic_id": 3,
                         "ptr_wrapper": {
-                            "id": 2147483783,
+                            "id": 2147483784,
                             "data": {
                                 "value0": {
                                     "Id": "46ec1816-0457-4592-9335-f91bd6cce013",
@@ -4185,7 +4293,7 @@
                         "polymorphic_id": 2147483655,
                         "polymorphic_name": "Lab::PolymorphicReversibleCommand<Lab::ReversibleCommand_SetVariable<Cool::TextureDescriptor_FromFile>>",
                         "ptr_wrapper": {
-                            "id": 2147483784,
+                            "id": 2147483785,
                             "data": {
                                 "value0": {
                                     "Id": "51b31bae-0329-402c-89df-b1217aec6ec2",
@@ -4220,7 +4328,7 @@
                     {
                         "polymorphic_id": 5,
                         "ptr_wrapper": {
-                            "id": 2147483785,
+                            "id": 2147483786,
                             "data": {
                                 "value0": {
                                     "Id": "861dd98a-640f-47f7-a213-8bb88a117d99",
@@ -4233,7 +4341,7 @@
                     {
                         "polymorphic_id": 5,
                         "ptr_wrapper": {
-                            "id": 2147483786,
+                            "id": 2147483787,
                             "data": {
                                 "value0": {
                                     "Id": "861dd98a-640f-47f7-a213-8bb88a117d99",
@@ -4246,7 +4354,7 @@
                     {
                         "polymorphic_id": 5,
                         "ptr_wrapper": {
-                            "id": 2147483787,
+                            "id": 2147483788,
                             "data": {
                                 "value0": {
                                     "Id": "44c7b720-4ad6-48f8-a4e1-35b449791602",
@@ -4259,7 +4367,7 @@
                     {
                         "polymorphic_id": 5,
                         "ptr_wrapper": {
-                            "id": 2147483788,
+                            "id": 2147483789,
                             "data": {
                                 "value0": {
                                     "Id": "861dd98a-640f-47f7-a213-8bb88a117d99",
@@ -4272,7 +4380,7 @@
                     {
                         "polymorphic_id": 5,
                         "ptr_wrapper": {
-                            "id": 2147483789,
+                            "id": 2147483790,
                             "data": {
                                 "value0": {
                                     "Id": "44c7b720-4ad6-48f8-a4e1-35b449791602",
@@ -4285,7 +4393,7 @@
                     {
                         "polymorphic_id": 5,
                         "ptr_wrapper": {
-                            "id": 2147483790,
+                            "id": 2147483791,
                             "data": {
                                 "value0": {
                                     "Id": "861dd98a-640f-47f7-a213-8bb88a117d99",
@@ -4298,7 +4406,7 @@
                     {
                         "polymorphic_id": 5,
                         "ptr_wrapper": {
-                            "id": 2147483791,
+                            "id": 2147483792,
                             "data": {
                                 "value0": {
                                     "Id": "44c7b720-4ad6-48f8-a4e1-35b449791602",
@@ -4311,7 +4419,7 @@
                     {
                         "polymorphic_id": 3,
                         "ptr_wrapper": {
-                            "id": 2147483792,
+                            "id": 2147483793,
                             "data": {
                                 "value0": {
                                     "Id": "dd8db65d-c2fe-4e13-bc70-1c93238d7b6e",
@@ -4324,7 +4432,7 @@
                     {
                         "polymorphic_id": 3,
                         "ptr_wrapper": {
-                            "id": 2147483793,
+                            "id": 2147483794,
                             "data": {
                                 "value0": {
                                     "Id": "dd8db65d-c2fe-4e13-bc70-1c93238d7b6e",
@@ -4337,7 +4445,7 @@
                     {
                         "polymorphic_id": 3,
                         "ptr_wrapper": {
-                            "id": 2147483794,
+                            "id": 2147483795,
                             "data": {
                                 "value0": {
                                     "Id": "2225afa8-07db-41eb-be01-077be50689e1",
@@ -4350,7 +4458,7 @@
                     {
                         "polymorphic_id": 5,
                         "ptr_wrapper": {
-                            "id": 2147483795,
+                            "id": 2147483796,
                             "data": {
                                 "value0": {
                                     "Id": "861dd98a-640f-47f7-a213-8bb88a117d99",
@@ -4363,7 +4471,7 @@
                     {
                         "polymorphic_id": 3,
                         "ptr_wrapper": {
-                            "id": 2147483796,
+                            "id": 2147483797,
                             "data": {
                                 "value0": {
                                     "Id": "2225afa8-07db-41eb-be01-077be50689e1",
@@ -4376,7 +4484,7 @@
                     {
                         "polymorphic_id": 4,
                         "ptr_wrapper": {
-                            "id": 2147483797,
+                            "id": 2147483798,
                             "data": {
                                 "value0": {
                                     "Id": "27174d7b-d20a-4115-9935-8de7af034e87",
@@ -4437,7 +4545,7 @@
                     {
                         "polymorphic_id": 3,
                         "ptr_wrapper": {
-                            "id": 2147483798,
+                            "id": 2147483799,
                             "data": {
                                 "value0": {
                                     "Id": "2225afa8-07db-41eb-be01-077be50689e1",
@@ -4450,7 +4558,7 @@
                     {
                         "polymorphic_id": 5,
                         "ptr_wrapper": {
-                            "id": 2147483799,
+                            "id": 2147483800,
                             "data": {
                                 "value0": {
                                     "Id": "861dd98a-640f-47f7-a213-8bb88a117d99",
@@ -4463,7 +4571,7 @@
                     {
                         "polymorphic_id": 5,
                         "ptr_wrapper": {
-                            "id": 2147483800,
+                            "id": 2147483801,
                             "data": {
                                 "value0": {
                                     "Id": "44c7b720-4ad6-48f8-a4e1-35b449791602",
@@ -4476,7 +4584,7 @@
                     {
                         "polymorphic_id": 5,
                         "ptr_wrapper": {
-                            "id": 2147483801,
+                            "id": 2147483802,
                             "data": {
                                 "value0": {
                                     "Id": "861dd98a-640f-47f7-a213-8bb88a117d99",
@@ -4489,7 +4597,7 @@
                     {
                         "polymorphic_id": 5,
                         "ptr_wrapper": {
-                            "id": 2147483802,
+                            "id": 2147483803,
                             "data": {
                                 "value0": {
                                     "Id": "9c6fbf7e-1dd1-4765-a730-003c5b42e691",
@@ -4503,7 +4611,7 @@
                         "polymorphic_id": 2147483656,
                         "polymorphic_name": "Lab::PolymorphicReversibleCommand<Lab::ReversibleCommand_SetVariable<Cool::Angle>>",
                         "ptr_wrapper": {
-                            "id": 2147483803,
+                            "id": 2147483804,
                             "data": {
                                 "value0": {
                                     "Id": "eb0e6cbe-6359-4ba6-a46c-725c1d4d6211",
@@ -4524,7 +4632,7 @@
                     {
                         "polymorphic_id": 8,
                         "ptr_wrapper": {
-                            "id": 2147483804,
+                            "id": 2147483805,
                             "data": {
                                 "value0": {
                                     "Id": "eb0e6cbe-6359-4ba6-a46c-725c1d4d6211",
