@@ -1,0 +1,1413 @@
+{
+    "Project": {
+        "Coollab version": "beta-11 WIP",
+        "Time": {
+            "Time": 0.00244190008379519,
+            "Is playing": false
+        },
+        "View Constraint": {
+            "Is controlling the number of pixels": false,
+            "Number of pixels": 250000,
+            "Is controlling the aspect ratio": true,
+            "Aspect ratio": 1.0,
+            "Interpolation mode": 0
+        },
+        "Exporter (Image and Video)": {
+            "Exporter (Image and Video)": {
+                "ptr_wrapper": {
+                    "valid": 1,
+                    "data": {
+                        "Video Settings": {
+                            "FPS": 30.0,
+                            "Beginning": 0.0,
+                            "End": 10.0
+                        },
+                        "Image Size": {
+                            "Size": {
+                                "w": 1080,
+                                "h": 1080
+                            },
+                            "Aspect Ratio is Locked": true,
+                            "Aspect Ratio": 1.0
+                        },
+                        "Image Output Folder": {
+                            "nullopt": false,
+                            "data": "C:\\Dev\\Cool\\Coollab-Artworks\\images"
+                        },
+                        "Video Output Folder": {
+                            "nullopt": true
+                        }
+                    }
+                }
+            }
+        },
+        "Camera Manager": {
+            "Camera ID": {
+                "Underlying": {
+                    "ptr_wrapper": {
+                        "id": 2147483649,
+                        "data": {
+                            "UUID": "a9c534d0-8aa5-4029-8cc7-8fae6cec05ac",
+                            "Registry": {
+                                "index": 0,
+                                "data": {
+                                    "ptr_wrapper": {
+                                        "id": 2147483650,
+                                        "data": {
+                                            "Underlying container": [
+                                                {
+                                                    "key": "a9c534d0-8aa5-4029-8cc7-8fae6cec05ac",
+                                                    "value": {
+                                                        "Name": "",
+                                                        "Value": {
+                                                            "Transform": {
+                                                                "value0": 0.5494011640548706,
+                                                                "value1": 0.8355584740638733,
+                                                                "value2": 0.0,
+                                                                "value3": -0.0,
+                                                                "value4": -0.4202671945095062,
+                                                                "value5": 0.2763364911079407,
+                                                                "value6": 0.8642993569374085,
+                                                                "value7": 0.0,
+                                                                "value8": 0.7221728563308716,
+                                                                "value9": -0.4748471975326538,
+                                                                "value10": 0.5029775500297546,
+                                                                "value11": -0.0,
+                                                                "value12": 2.6478638648986818,
+                                                                "value13": -1.7410386800765992,
+                                                                "value14": 1.8441791534423829,
+                                                                "value15": 1.0
+                                                            },
+                                                            "Projection": {
+                                                                "Field of View (in radians)": 1.5707963705062867,
+                                                                "Near Plane": 0.10000000149011612,
+                                                                "Far Plane": 200.0
+                                                            }
+                                                        },
+                                                        "Metadata": {},
+                                                        "Default Value": {
+                                                            "Transform": {
+                                                                "value0": 0.5494011640548706,
+                                                                "value1": 0.8355584740638733,
+                                                                "value2": 0.0,
+                                                                "value3": -0.0,
+                                                                "value4": -0.4202671945095062,
+                                                                "value5": 0.2763364911079407,
+                                                                "value6": 0.8642993569374085,
+                                                                "value7": 0.0,
+                                                                "value8": 0.7221728563308716,
+                                                                "value9": -0.4748471975326538,
+                                                                "value10": 0.5029775500297546,
+                                                                "value11": -0.0,
+                                                                "value12": 2.6478638648986818,
+                                                                "value13": -1.7410386800765992,
+                                                                "value14": 1.8441791534423829,
+                                                                "value15": 1.0
+                                                            },
+                                                            "Projection": {
+                                                                "Field of View (in radians)": 1.5707963705062867,
+                                                                "Near Plane": 0.10000000149011612,
+                                                                "Far Plane": 200.0
+                                                            }
+                                                        },
+                                                        "Default Metadata": {}
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "ViewController": {
+                "Mode": 1,
+                "Translation Speed": 0.009999999776482582,
+                "Rotation Speed": 0.009999999776482582,
+                "Distance to Orbit Center": 3.6665239334106447
+            },
+            "Is editable in view": false
+        },
+        "Camera 2D": {
+            "Name": "",
+            "Value": {
+                "Translation": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "Zoom": 1.0,
+                "Rotation": {
+                    "Radians": {
+                        "Radians": 0.0
+                    }
+                }
+            },
+            "Metadata": {
+                "Number of snaps": 24,
+                "Snaps offset (in radians)": 0.0,
+                "Always snap": false
+            },
+            "Default Value": {
+                "Translation": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "Zoom": 1.0,
+                "Rotation": {
+                    "Radians": {
+                        "Radians": 0.0
+                    }
+                }
+            },
+            "Default Metadata": {
+                "Number of snaps": 24,
+                "Snaps offset (in radians)": 0.0,
+                "Always snap": false
+            }
+        },
+        "Is camera 2D editable in view": true,
+        "Modules Graph": {
+            "ptr_wrapper": {
+                "valid": 1,
+                "data": {
+                    "Compositing Module": {
+                        "Base Module": {
+                            "Name": "Compositing",
+                            "Dirty Flag: needs to rerender": {
+                                "ID": {
+                                    "Underlying": {
+                                        "ptr_wrapper": {
+                                            "id": 2147483651,
+                                            "data": {
+                                                "UUID": "5217a4fa-955c-4384-8928-e46c2b07d7b0",
+                                                "Registry": {
+                                                    "index": 0,
+                                                    "data": {
+                                                        "ptr_wrapper": {
+                                                            "id": 2147483652,
+                                                            "data": {
+                                                                "Underlying container": [
+                                                                    {
+                                                                        "key": "db98fd98-44d6-4c17-a33d-789f2bf6bf27",
+                                                                        "value": {
+                                                                            "Is Dirty": false
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "key": "f19ffb44-e98d-4f21-b877-afc898ddef06",
+                                                                        "value": {
+                                                                            "Is Dirty": false
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        "key": "5217a4fa-955c-4384-8928-e46c2b07d7b0",
+                                                                        "value": {
+                                                                            "Is Dirty": false
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "Particles Module": [],
+                    "Dirty Flag: Regenerate Code": {
+                        "ID": {
+                            "Underlying": {
+                                "ptr_wrapper": {
+                                    "id": 2147483653,
+                                    "data": {
+                                        "UUID": "db98fd98-44d6-4c17-a33d-789f2bf6bf27",
+                                        "Registry": {
+                                            "index": 0,
+                                            "data": {
+                                                "ptr_wrapper": {
+                                                    "id": 4
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "Dirty Flag: Rerender all": {
+                        "ID": {
+                            "Underlying": {
+                                "ptr_wrapper": {
+                                    "id": 2147483654,
+                                    "data": {
+                                        "UUID": "f19ffb44-e98d-4f21-b877-afc898ddef06",
+                                        "Registry": {
+                                            "index": 0,
+                                            "data": {
+                                                "ptr_wrapper": {
+                                                    "id": 4
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "Node Editor": {
+                        "Pimpl": {
+                            "polymorphic_id": 2147483649,
+                            "polymorphic_name": "Cool::NodesEditorImpl",
+                            "ptr_wrapper": {
+                                "valid": 1,
+                                "data": {
+                                    "Graph": {
+                                        "Nodes": {
+                                            "Underlying container": [
+                                                {
+                                                    "key": "7f3ebe83-72e5-4cc0-94a9-46372b1fb61a",
+                                                    "value": {
+                                                        "pimpl": {
+                                                            "polymorphic_id": 2147483650,
+                                                            "polymorphic_name": "Cool::Node::Model<Lab::Node>",
+                                                            "ptr_wrapper": {
+                                                                "valid": 1,
+                                                                "data": {
+                                                                    "Node": {
+                                                                        "Name": "",
+                                                                        "Definition": {
+                                                                            "Definition name": "Adaptive halftone",
+                                                                            "Category name": "Greyscale Modifier"
+                                                                        },
+                                                                        "Input Pins": [
+                                                                            {
+                                                                                "Base Pin": {
+                                                                                    "Name": "Image",
+                                                                                    "ID": "24a0c93c-b3d4-475f-99de-e94f0cf3cfce"
+                                                                                }
+                                                                            },
+                                                                            {
+                                                                                "Base Pin": {
+                                                                                    "Name": "Resolution",
+                                                                                    "ID": "48e98b42-65a9-4b85-a065-92172ba002d6"
+                                                                                }
+                                                                            },
+                                                                            {
+                                                                                "Base Pin": {
+                                                                                    "Name": "Subdivision threshold",
+                                                                                    "ID": "e9792bf0-923b-46c5-b2ea-d2ebd3527536"
+                                                                                }
+                                                                            },
+                                                                            {
+                                                                                "Base Pin": {
+                                                                                    "Name": "Max subdivisions",
+                                                                                    "ID": "54ada823-76be-4474-b00a-4f23cf1fe483"
+                                                                                }
+                                                                            },
+                                                                            {
+                                                                                "Base Pin": {
+                                                                                    "Name": "Roundness",
+                                                                                    "ID": "fd88ed6b-27da-47d4-9443-85ee11686c13"
+                                                                                }
+                                                                            }
+                                                                        ],
+                                                                        "Output Pins": [
+                                                                            {
+                                                                                "Base Pin": {
+                                                                                    "Name": "OUT",
+                                                                                    "ID": "7ff56840-2b80-4e90-8406-4c14511eebc5"
+                                                                                }
+                                                                            }
+                                                                        ],
+                                                                        "Value inputs": [
+                                                                            {
+                                                                                "index": 1,
+                                                                                "data": {
+                                                                                    "Name": "Resolution",
+                                                                                    "Default Variable ID": {
+                                                                                        "Underlying": {
+                                                                                            "ptr_wrapper": {
+                                                                                                "id": 2147483655,
+                                                                                                "data": {
+                                                                                                    "UUID": "ec372f2b-5e9c-4cae-9fe0-41dfbe32ee90",
+                                                                                                    "Registry": {
+                                                                                                        "index": 0,
+                                                                                                        "data": {
+                                                                                                            "ptr_wrapper": {
+                                                                                                                "id": 2147483656,
+                                                                                                                "data": {
+                                                                                                                    "Underlying container": [
+                                                                                                                        {
+                                                                                                                            "key": "ec372f2b-5e9c-4cae-9fe0-41dfbe32ee90",
+                                                                                                                            "value": {
+                                                                                                                                "Name": "Resolution",
+                                                                                                                                "Value": 14,
+                                                                                                                                "Metadata": {
+                                                                                                                                    "Bounds": {
+                                                                                                                                        "Has min bound": true,
+                                                                                                                                        "Min": 1,
+                                                                                                                                        "Has max bound": false,
+                                                                                                                                        "Max": 12,
+                                                                                                                                        "Drag speed": 0.019999999552965165,
+                                                                                                                                        "Use slider": false
+                                                                                                                                    }
+                                                                                                                                },
+                                                                                                                                "Default Value": 0,
+                                                                                                                                "Default Metadata": {
+                                                                                                                                    "Bounds": {
+                                                                                                                                        "Has min bound": false,
+                                                                                                                                        "Min": 0,
+                                                                                                                                        "Has max bound": false,
+                                                                                                                                        "Max": 12,
+                                                                                                                                        "Drag speed": 0.019999999552965165,
+                                                                                                                                        "Use slider": false
+                                                                                                                                    }
+                                                                                                                                }
+                                                                                                                            }
+                                                                                                                        },
+                                                                                                                        {
+                                                                                                                            "key": "bbbfdd55-41b4-42dc-910a-194a8e9dfa23",
+                                                                                                                            "value": {
+                                                                                                                                "Name": "Max subdivisions",
+                                                                                                                                "Value": 6,
+                                                                                                                                "Metadata": {
+                                                                                                                                    "Bounds": {
+                                                                                                                                        "Has min bound": true,
+                                                                                                                                        "Min": 1,
+                                                                                                                                        "Has max bound": true,
+                                                                                                                                        "Max": 6,
+                                                                                                                                        "Drag speed": 0.019999999552965165,
+                                                                                                                                        "Use slider": true
+                                                                                                                                    }
+                                                                                                                                },
+                                                                                                                                "Default Value": 0,
+                                                                                                                                "Default Metadata": {
+                                                                                                                                    "Bounds": {
+                                                                                                                                        "Has min bound": false,
+                                                                                                                                        "Min": 0,
+                                                                                                                                        "Has max bound": false,
+                                                                                                                                        "Max": 12,
+                                                                                                                                        "Drag speed": 0.019999999552965165,
+                                                                                                                                        "Use slider": false
+                                                                                                                                    }
+                                                                                                                                }
+                                                                                                                            }
+                                                                                                                        }
+                                                                                                                    ]
+                                                                                                                }
+                                                                                                            }
+                                                                                                        }
+                                                                                                    }
+                                                                                                }
+                                                                                            }
+                                                                                        }
+                                                                                    },
+                                                                                    "Current Variable ID": "00000000-0000-0000-0000-000000000000",
+                                                                                    "Dirty Flag": {
+                                                                                        "ID": {
+                                                                                            "Underlying": {
+                                                                                                "ptr_wrapper": {
+                                                                                                    "id": 6
+                                                                                                }
+                                                                                            }
+                                                                                        }
+                                                                                    },
+                                                                                    "desired color space": 0
+                                                                                }
+                                                                            },
+                                                                            {
+                                                                                "index": 2,
+                                                                                "data": {
+                                                                                    "Name": "Subdivision threshold",
+                                                                                    "Default Variable ID": {
+                                                                                        "Underlying": {
+                                                                                            "ptr_wrapper": {
+                                                                                                "id": 2147483657,
+                                                                                                "data": {
+                                                                                                    "UUID": "5cb54687-1132-4e6c-8bc8-d377d8ec3210",
+                                                                                                    "Registry": {
+                                                                                                        "index": 0,
+                                                                                                        "data": {
+                                                                                                            "ptr_wrapper": {
+                                                                                                                "id": 2147483658,
+                                                                                                                "data": {
+                                                                                                                    "Underlying container": [
+                                                                                                                        {
+                                                                                                                            "key": "5cb54687-1132-4e6c-8bc8-d377d8ec3210",
+                                                                                                                            "value": {
+                                                                                                                                "Name": "Subdivision threshold",
+                                                                                                                                "Value": 0.026000000536441804,
+                                                                                                                                "Metadata": {
+                                                                                                                                    "Bounds": {
+                                                                                                                                        "Has min bound": true,
+                                                                                                                                        "Min": 0.0,
+                                                                                                                                        "Has max bound": true,
+                                                                                                                                        "Max": 1.0,
+                                                                                                                                        "Drag speed": 0.009999999776482582,
+                                                                                                                                        "Use slider": true
+                                                                                                                                    }
+                                                                                                                                },
+                                                                                                                                "Default Value": 0.0,
+                                                                                                                                "Default Metadata": {
+                                                                                                                                    "Bounds": {
+                                                                                                                                        "Has min bound": false,
+                                                                                                                                        "Min": 0.0,
+                                                                                                                                        "Has max bound": false,
+                                                                                                                                        "Max": 1.0,
+                                                                                                                                        "Drag speed": 0.009999999776482582,
+                                                                                                                                        "Use slider": false
+                                                                                                                                    }
+                                                                                                                                }
+                                                                                                                            }
+                                                                                                                        },
+                                                                                                                        {
+                                                                                                                            "key": "d687c577-808d-41a5-ae48-b0741910b3ed",
+                                                                                                                            "value": {
+                                                                                                                                "Name": "Roundness",
+                                                                                                                                "Value": 0.0010000000474974514,
+                                                                                                                                "Metadata": {
+                                                                                                                                    "Bounds": {
+                                                                                                                                        "Has min bound": true,
+                                                                                                                                        "Min": 0.0010000000474974514,
+                                                                                                                                        "Has max bound": true,
+                                                                                                                                        "Max": 1.0,
+                                                                                                                                        "Drag speed": 0.009999999776482582,
+                                                                                                                                        "Use slider": true
+                                                                                                                                    }
+                                                                                                                                },
+                                                                                                                                "Default Value": 0.0,
+                                                                                                                                "Default Metadata": {
+                                                                                                                                    "Bounds": {
+                                                                                                                                        "Has min bound": false,
+                                                                                                                                        "Min": 0.0,
+                                                                                                                                        "Has max bound": false,
+                                                                                                                                        "Max": 1.0,
+                                                                                                                                        "Drag speed": 0.009999999776482582,
+                                                                                                                                        "Use slider": false
+                                                                                                                                    }
+                                                                                                                                }
+                                                                                                                            }
+                                                                                                                        }
+                                                                                                                    ]
+                                                                                                                }
+                                                                                                            }
+                                                                                                        }
+                                                                                                    }
+                                                                                                }
+                                                                                            }
+                                                                                        }
+                                                                                    },
+                                                                                    "Current Variable ID": "00000000-0000-0000-0000-000000000000",
+                                                                                    "Dirty Flag": {
+                                                                                        "ID": {
+                                                                                            "Underlying": {
+                                                                                                "ptr_wrapper": {
+                                                                                                    "id": 6
+                                                                                                }
+                                                                                            }
+                                                                                        }
+                                                                                    },
+                                                                                    "desired color space": 0
+                                                                                }
+                                                                            },
+                                                                            {
+                                                                                "index": 1,
+                                                                                "data": {
+                                                                                    "Name": "Max subdivisions",
+                                                                                    "Default Variable ID": {
+                                                                                        "Underlying": {
+                                                                                            "ptr_wrapper": {
+                                                                                                "id": 2147483659,
+                                                                                                "data": {
+                                                                                                    "UUID": "bbbfdd55-41b4-42dc-910a-194a8e9dfa23",
+                                                                                                    "Registry": {
+                                                                                                        "index": 0,
+                                                                                                        "data": {
+                                                                                                            "ptr_wrapper": {
+                                                                                                                "id": 8
+                                                                                                            }
+                                                                                                        }
+                                                                                                    }
+                                                                                                }
+                                                                                            }
+                                                                                        }
+                                                                                    },
+                                                                                    "Current Variable ID": "00000000-0000-0000-0000-000000000000",
+                                                                                    "Dirty Flag": {
+                                                                                        "ID": {
+                                                                                            "Underlying": {
+                                                                                                "ptr_wrapper": {
+                                                                                                    "id": 6
+                                                                                                }
+                                                                                            }
+                                                                                        }
+                                                                                    },
+                                                                                    "desired color space": 0
+                                                                                }
+                                                                            },
+                                                                            {
+                                                                                "index": 2,
+                                                                                "data": {
+                                                                                    "Name": "Roundness",
+                                                                                    "Default Variable ID": {
+                                                                                        "Underlying": {
+                                                                                            "ptr_wrapper": {
+                                                                                                "id": 2147483660,
+                                                                                                "data": {
+                                                                                                    "UUID": "d687c577-808d-41a5-ae48-b0741910b3ed",
+                                                                                                    "Registry": {
+                                                                                                        "index": 0,
+                                                                                                        "data": {
+                                                                                                            "ptr_wrapper": {
+                                                                                                                "id": 10
+                                                                                                            }
+                                                                                                        }
+                                                                                                    }
+                                                                                                }
+                                                                                            }
+                                                                                        }
+                                                                                    },
+                                                                                    "Current Variable ID": "00000000-0000-0000-0000-000000000000",
+                                                                                    "Dirty Flag": {
+                                                                                        "ID": {
+                                                                                            "Underlying": {
+                                                                                                "ptr_wrapper": {
+                                                                                                    "id": 6
+                                                                                                }
+                                                                                            }
+                                                                                        }
+                                                                                    },
+                                                                                    "desired color space": 0
+                                                                                }
+                                                                            }
+                                                                        ],
+                                                                        "Number of main input pins": 0,
+                                                                        "Number of function inputs": 1,
+                                                                        "Particle count": {
+                                                                            "nullopt": true
+                                                                        }
+                                                                    }
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                },
+                                                {
+                                                    "key": "7addf3a8-5276-4ca0-af32-61893ea0dc3d",
+                                                    "value": {
+                                                        "pimpl": {
+                                                            "polymorphic_id": 2,
+                                                            "ptr_wrapper": {
+                                                                "valid": 1,
+                                                                "data": {
+                                                                    "Node": {
+                                                                        "Name": "",
+                                                                        "Definition": {
+                                                                            "Definition name": "Image",
+                                                                            "Category name": "Image"
+                                                                        },
+                                                                        "Input Pins": [
+                                                                            {
+                                                                                "Base Pin": {
+                                                                                    "Name": "Image",
+                                                                                    "ID": "3d5e5a4b-115e-44a1-9f22-6773dff3bc9d"
+                                                                                }
+                                                                            }
+                                                                        ],
+                                                                        "Output Pins": [
+                                                                            {
+                                                                                "Base Pin": {
+                                                                                    "Name": "OUT",
+                                                                                    "ID": "45ee923f-d3b3-4e6f-9129-231c4d8d7faf"
+                                                                                }
+                                                                            }
+                                                                        ],
+                                                                        "Value inputs": [
+                                                                            {
+                                                                                "index": 16,
+                                                                                "data": {
+                                                                                    "Name": "Image",
+                                                                                    "Default Variable ID": {
+                                                                                        "Underlying": {
+                                                                                            "ptr_wrapper": {
+                                                                                                "id": 2147483661,
+                                                                                                "data": {
+                                                                                                    "UUID": "4f600548-219a-4012-b7ad-530303fbea6e",
+                                                                                                    "Registry": {
+                                                                                                        "index": 0,
+                                                                                                        "data": {
+                                                                                                            "ptr_wrapper": {
+                                                                                                                "id": 2147483662,
+                                                                                                                "data": {
+                                                                                                                    "Underlying container": [
+                                                                                                                        {
+                                                                                                                            "key": "4f600548-219a-4012-b7ad-530303fbea6e",
+                                                                                                                            "value": {
+                                                                                                                                "Name": "Image",
+                                                                                                                                "Value": {
+                                                                                                                                    "Source": {
+                                                                                                                                        "index": 0,
+                                                                                                                                        "data": {
+                                                                                                                                            "Path": "C:\\Users\\fouch\\Downloads\\img169.png"
+                                                                                                                                        }
+                                                                                                                                    },
+                                                                                                                                    "Sampler": {
+                                                                                                                                        "Repeat Mode": 0,
+                                                                                                                                        "Interpolation Mode": 9729
+                                                                                                                                    }
+                                                                                                                                },
+                                                                                                                                "Metadata": {},
+                                                                                                                                "Default Value": {
+                                                                                                                                    "Source": {
+                                                                                                                                        "index": 0,
+                                                                                                                                        "data": {
+                                                                                                                                            "Path": "C:/Dev/Cool/Coollab-Artworks/Coollab\\res/images/logo.png"
+                                                                                                                                        }
+                                                                                                                                    },
+                                                                                                                                    "Sampler": {
+                                                                                                                                        "Repeat Mode": 0,
+                                                                                                                                        "Interpolation Mode": 9729
+                                                                                                                                    }
+                                                                                                                                },
+                                                                                                                                "Default Metadata": {}
+                                                                                                                            }
+                                                                                                                        }
+                                                                                                                    ]
+                                                                                                                }
+                                                                                                            }
+                                                                                                        }
+                                                                                                    }
+                                                                                                }
+                                                                                            }
+                                                                                        }
+                                                                                    },
+                                                                                    "Current Variable ID": "00000000-0000-0000-0000-000000000000",
+                                                                                    "Dirty Flag": {
+                                                                                        "ID": {
+                                                                                            "Underlying": {
+                                                                                                "ptr_wrapper": {
+                                                                                                    "id": 6
+                                                                                                }
+                                                                                            }
+                                                                                        }
+                                                                                    },
+                                                                                    "desired color space": 0
+                                                                                }
+                                                                            }
+                                                                        ],
+                                                                        "Number of main input pins": 0,
+                                                                        "Number of function inputs": 0,
+                                                                        "Particle count": {
+                                                                            "nullopt": true
+                                                                        }
+                                                                    }
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        "Links": {
+                                            "Underlying container": [
+                                                {
+                                                    "key": "e75804c9-31d3-4169-9833-3ec832878503",
+                                                    "value": {
+                                                        "From pin": "45ee923f-d3b3-4e6f-9129-231c4d8d7faf",
+                                                        "To pin": "24a0c93c-b3d4-475f-99de-e94f0cf3cfce"
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    "Frame nodes": [],
+                                    "Context": {
+                                        "UI State": "{\"nodes\":{\"node:11550737241692429690\":{\"location\":{\"x\":768,\"y\":442}},\"node:13856702433511489151\":{\"location\":{\"x\":944,\"y\":410}}},\"selection\":[\"node:13856702433511489151\"],\"view\":{\"scroll\":{\"x\":293.872222900390625,\"y\":-6.103515625e-05},\"visible_rect\":{\"max\":{\"x\":1600.816650390625,\"y\":971.00006103515625},\"min\":{\"x\":319.18341064453125,\"y\":-6.6292108385823667e-05}},\"zoom\":0.920700192451477051}}"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "Main Node ID": "7f3ebe83-72e5-4cc0-94a9-46372b1fb61a",
+                    "Camera Input": {
+                        "Name": "Camera",
+                        "Default Variable ID": {
+                            "Underlying": {
+                                "ptr_wrapper": {
+                                    "id": 1
+                                }
+                            }
+                        },
+                        "Current Variable ID": "00000000-0000-0000-0000-000000000000",
+                        "Dirty Flag": {
+                            "ID": {
+                                "Underlying": {
+                                    "ptr_wrapper": {
+                                        "id": 6
+                                    }
+                                }
+                            }
+                        },
+                        "desired color space": 0
+                    }
+                }
+            }
+        },
+        "Variable Registries": {
+            "Underlying registries": {
+                "tuple_element0": {
+                    "Underlying registry": {
+                        "ptr_wrapper": {
+                            "id": 2147483663,
+                            "data": {
+                                "Underlying container": []
+                            }
+                        }
+                    }
+                },
+                "tuple_element1": {
+                    "Underlying registry": {
+                        "ptr_wrapper": {
+                            "id": 8
+                        }
+                    }
+                },
+                "tuple_element2": {
+                    "Underlying registry": {
+                        "ptr_wrapper": {
+                            "id": 10
+                        }
+                    }
+                },
+                "tuple_element3": {
+                    "Underlying registry": {
+                        "ptr_wrapper": {
+                            "id": 2147483664,
+                            "data": {
+                                "Underlying container": []
+                            }
+                        }
+                    }
+                },
+                "tuple_element4": {
+                    "Underlying registry": {
+                        "ptr_wrapper": {
+                            "id": 2147483665,
+                            "data": {
+                                "Underlying container": []
+                            }
+                        }
+                    }
+                },
+                "tuple_element5": {
+                    "Underlying registry": {
+                        "ptr_wrapper": {
+                            "id": 2147483666,
+                            "data": {
+                                "Underlying container": []
+                            }
+                        }
+                    }
+                },
+                "tuple_element6": {
+                    "Underlying registry": {
+                        "ptr_wrapper": {
+                            "id": 2147483667,
+                            "data": {
+                                "Underlying container": []
+                            }
+                        }
+                    }
+                },
+                "tuple_element7": {
+                    "Underlying registry": {
+                        "ptr_wrapper": {
+                            "id": 2147483668,
+                            "data": {
+                                "Underlying container": []
+                            }
+                        }
+                    }
+                },
+                "tuple_element8": {
+                    "Underlying registry": {
+                        "ptr_wrapper": {
+                            "id": 2147483669,
+                            "data": {
+                                "Underlying container": []
+                            }
+                        }
+                    }
+                },
+                "tuple_element9": {
+                    "Underlying registry": {
+                        "ptr_wrapper": {
+                            "id": 2
+                        }
+                    }
+                },
+                "tuple_element10": {
+                    "Underlying registry": {
+                        "ptr_wrapper": {
+                            "id": 2147483670,
+                            "data": {
+                                "Underlying container": []
+                            }
+                        }
+                    }
+                },
+                "tuple_element11": {
+                    "Underlying registry": {
+                        "ptr_wrapper": {
+                            "id": 2147483671,
+                            "data": {
+                                "Underlying container": []
+                            }
+                        }
+                    }
+                },
+                "tuple_element12": {
+                    "Underlying registry": {
+                        "ptr_wrapper": {
+                            "id": 2147483672,
+                            "data": {
+                                "Underlying container": []
+                            }
+                        }
+                    }
+                },
+                "tuple_element13": {
+                    "Underlying registry": {
+                        "ptr_wrapper": {
+                            "id": 2147483673,
+                            "data": {
+                                "Underlying container": []
+                            }
+                        }
+                    }
+                },
+                "tuple_element14": {
+                    "Underlying registry": {
+                        "ptr_wrapper": {
+                            "id": 2147483674,
+                            "data": {
+                                "Underlying container": []
+                            }
+                        }
+                    }
+                },
+                "tuple_element15": {
+                    "Underlying registry": {
+                        "ptr_wrapper": {
+                            "id": 2147483675,
+                            "data": {
+                                "Underlying container": []
+                            }
+                        }
+                    }
+                },
+                "tuple_element16": {
+                    "Underlying registry": {
+                        "ptr_wrapper": {
+                            "id": 14
+                        }
+                    }
+                },
+                "tuple_element17": {
+                    "Underlying registry": {
+                        "ptr_wrapper": {
+                            "id": 2147483676,
+                            "data": {
+                                "Underlying container": []
+                            }
+                        }
+                    }
+                },
+                "tuple_element18": {
+                    "Underlying registry": {
+                        "ptr_wrapper": {
+                            "id": 2147483677,
+                            "data": {
+                                "Underlying container": []
+                            }
+                        }
+                    }
+                },
+                "tuple_element19": {
+                    "Underlying registry": {
+                        "ptr_wrapper": {
+                            "id": 2147483678,
+                            "data": {
+                                "Underlying container": []
+                            }
+                        }
+                    }
+                },
+                "tuple_element20": {
+                    "Underlying registry": {
+                        "ptr_wrapper": {
+                            "id": 2147483679,
+                            "data": {
+                                "Underlying container": []
+                            }
+                        }
+                    }
+                },
+                "tuple_element21": {
+                    "Underlying registry": {
+                        "ptr_wrapper": {
+                            "id": 2147483680,
+                            "data": {
+                                "Underlying container": []
+                            }
+                        }
+                    }
+                },
+                "tuple_element22": {
+                    "Underlying registry": {
+                        "ptr_wrapper": {
+                            "id": 2147483681,
+                            "data": {
+                                "Underlying container": []
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "History": {
+            "History": {
+                "Commits": [
+                    {
+                        "polymorphic_id": 2147483651,
+                        "polymorphic_name": "Lab::PolymorphicReversibleCommand<Lab::ReversibleCommand_SetVariable<int>>",
+                        "ptr_wrapper": {
+                            "id": 2147483682,
+                            "data": {
+                                "value0": {
+                                    "Id": "ec372f2b-5e9c-4cae-9fe0-41dfbe32ee90",
+                                    "Value": 6,
+                                    "Old value": 6
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "polymorphic_id": 2147483652,
+                        "polymorphic_name": "Lab::PolymorphicReversibleCommand<Lab::ReversibleCommand_SetVariable<float>>",
+                        "ptr_wrapper": {
+                            "id": 2147483683,
+                            "data": {
+                                "value0": {
+                                    "Id": "5cb54687-1132-4e6c-8bc8-d377d8ec3210",
+                                    "Value": 0.47699999809265139,
+                                    "Old value": 0.11999999731779099
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "polymorphic_id": 3,
+                        "ptr_wrapper": {
+                            "id": 2147483684,
+                            "data": {
+                                "value0": {
+                                    "Id": "bbbfdd55-41b4-42dc-910a-194a8e9dfa23",
+                                    "Value": 1,
+                                    "Old value": 4
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "polymorphic_id": 4,
+                        "ptr_wrapper": {
+                            "id": 2147483685,
+                            "data": {
+                                "value0": {
+                                    "Id": "d687c577-808d-41a5-ae48-b0741910b3ed",
+                                    "Value": 0.0010000000474974514,
+                                    "Old value": 0.4269999861717224
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "polymorphic_id": 4,
+                        "ptr_wrapper": {
+                            "id": 2147483686,
+                            "data": {
+                                "value0": {
+                                    "Id": "5cb54687-1132-4e6c-8bc8-d377d8ec3210",
+                                    "Value": 0.6930000185966492,
+                                    "Old value": 0.47699999809265139
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "polymorphic_id": 3,
+                        "ptr_wrapper": {
+                            "id": 2147483687,
+                            "data": {
+                                "value0": {
+                                    "Id": "bbbfdd55-41b4-42dc-910a-194a8e9dfa23",
+                                    "Value": 6,
+                                    "Old value": 1
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "polymorphic_id": 4,
+                        "ptr_wrapper": {
+                            "id": 2147483688,
+                            "data": {
+                                "value0": {
+                                    "Id": "5cb54687-1132-4e6c-8bc8-d377d8ec3210",
+                                    "Value": 0.0729999989271164,
+                                    "Old value": 0.6930000185966492
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "polymorphic_id": 4,
+                        "ptr_wrapper": {
+                            "id": 2147483689,
+                            "data": {
+                                "value0": {
+                                    "Id": "5cb54687-1132-4e6c-8bc8-d377d8ec3210",
+                                    "Value": 0.0,
+                                    "Old value": 0.0729999989271164
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "polymorphic_id": 3,
+                        "ptr_wrapper": {
+                            "id": 2147483690,
+                            "data": {
+                                "value0": {
+                                    "Id": "ec372f2b-5e9c-4cae-9fe0-41dfbe32ee90",
+                                    "Value": 10,
+                                    "Old value": 6
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "polymorphic_id": 4,
+                        "ptr_wrapper": {
+                            "id": 2147483691,
+                            "data": {
+                                "value0": {
+                                    "Id": "d687c577-808d-41a5-ae48-b0741910b3ed",
+                                    "Value": 1.0,
+                                    "Old value": 0.0010000000474974514
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "polymorphic_id": 4,
+                        "ptr_wrapper": {
+                            "id": 2147483692,
+                            "data": {
+                                "value0": {
+                                    "Id": "5cb54687-1132-4e6c-8bc8-d377d8ec3210",
+                                    "Value": 0.4860000014305115,
+                                    "Old value": 0.0
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "polymorphic_id": 3,
+                        "ptr_wrapper": {
+                            "id": 2147483693,
+                            "data": {
+                                "value0": {
+                                    "Id": "ec372f2b-5e9c-4cae-9fe0-41dfbe32ee90",
+                                    "Value": 2,
+                                    "Old value": 10
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "polymorphic_id": 2147483653,
+                        "polymorphic_name": "Lab::PolymorphicReversibleCommand<Lab::ReversibleCommand_SetVariable<Cool::TextureDescriptor_FromFile>>",
+                        "ptr_wrapper": {
+                            "id": 2147483694,
+                            "data": {
+                                "value0": {
+                                    "Id": "4f600548-219a-4012-b7ad-530303fbea6e",
+                                    "Value": {
+                                        "Source": {
+                                            "index": 0,
+                                            "data": {
+                                                "Path": "C:\\Users\\fouch\\Downloads\\img169.png"
+                                            }
+                                        },
+                                        "Sampler": {
+                                            "Repeat Mode": 0,
+                                            "Interpolation Mode": 9729
+                                        }
+                                    },
+                                    "Old value": {
+                                        "Source": {
+                                            "index": 0,
+                                            "data": {
+                                                "Path": "C:/Dev/Cool/Coollab-Artworks/Coollab\\res/images/logo.png"
+                                            }
+                                        },
+                                        "Sampler": {
+                                            "Repeat Mode": 0,
+                                            "Interpolation Mode": 9729
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "polymorphic_id": 3,
+                        "ptr_wrapper": {
+                            "id": 2147483695,
+                            "data": {
+                                "value0": {
+                                    "Id": "ec372f2b-5e9c-4cae-9fe0-41dfbe32ee90",
+                                    "Value": 11,
+                                    "Old value": 2
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "polymorphic_id": 3,
+                        "ptr_wrapper": {
+                            "id": 2147483696,
+                            "data": {
+                                "value0": {
+                                    "Id": "ec372f2b-5e9c-4cae-9fe0-41dfbe32ee90",
+                                    "Value": 14,
+                                    "Old value": 11
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "polymorphic_id": 4,
+                        "ptr_wrapper": {
+                            "id": 2147483697,
+                            "data": {
+                                "value0": {
+                                    "Id": "5cb54687-1132-4e6c-8bc8-d377d8ec3210",
+                                    "Value": 0.0,
+                                    "Old value": 0.4860000014305115
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "polymorphic_id": 2147483654,
+                        "polymorphic_name": "Lab::PolymorphicReversibleCommand<Lab::ReversibleCommand_SetVariable<Cool::Camera>>",
+                        "ptr_wrapper": {
+                            "id": 2147483698,
+                            "data": {
+                                "value0": {
+                                    "Id": "a9c534d0-8aa5-4029-8cc7-8fae6cec05ac",
+                                    "Value": {
+                                        "Transform": {
+                                            "value0": 0.5494011640548706,
+                                            "value1": 0.8355584740638733,
+                                            "value2": 0.0,
+                                            "value3": -0.0,
+                                            "value4": -0.4202671945095062,
+                                            "value5": 0.2763364911079407,
+                                            "value6": 0.8642993569374085,
+                                            "value7": 0.0,
+                                            "value8": 0.7221728563308716,
+                                            "value9": -0.4748471975326538,
+                                            "value10": 0.5029775500297546,
+                                            "value11": -0.0,
+                                            "value12": 2.6478638648986818,
+                                            "value13": -1.7410386800765992,
+                                            "value14": 1.8441791534423829,
+                                            "value15": 1.0
+                                        },
+                                        "Projection": {
+                                            "Field of View (in radians)": 1.5707963705062867,
+                                            "Near Plane": 0.10000000149011612,
+                                            "Far Plane": 200.0
+                                        }
+                                    },
+                                    "Old value": {
+                                        "Transform": {
+                                            "value0": 0.5494011640548706,
+                                            "value1": 0.8355584740638733,
+                                            "value2": 0.0,
+                                            "value3": -0.0,
+                                            "value4": -0.4202671945095062,
+                                            "value5": 0.2763364911079407,
+                                            "value6": 0.8642993569374085,
+                                            "value7": 0.0,
+                                            "value8": 0.7221728563308716,
+                                            "value9": -0.4748471975326538,
+                                            "value10": 0.5029775500297546,
+                                            "value11": -0.0,
+                                            "value12": 2.6478638648986818,
+                                            "value13": -1.7410386800765992,
+                                            "value14": 1.8441791534423829,
+                                            "value15": 1.0
+                                        },
+                                        "Projection": {
+                                            "Field of View (in radians)": 1.5707963705062867,
+                                            "Near Plane": 0.10000000149011612,
+                                            "Far Plane": 200.0
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "polymorphic_id": 6,
+                        "ptr_wrapper": {
+                            "id": 2147483699,
+                            "data": {
+                                "value0": {
+                                    "Id": "a9c534d0-8aa5-4029-8cc7-8fae6cec05ac",
+                                    "Value": {
+                                        "Transform": {
+                                            "value0": 0.5494011640548706,
+                                            "value1": 0.8355584740638733,
+                                            "value2": 0.0,
+                                            "value3": -0.0,
+                                            "value4": -0.4202671945095062,
+                                            "value5": 0.2763364911079407,
+                                            "value6": 0.8642993569374085,
+                                            "value7": 0.0,
+                                            "value8": 0.7221728563308716,
+                                            "value9": -0.4748471975326538,
+                                            "value10": 0.5029775500297546,
+                                            "value11": -0.0,
+                                            "value12": 2.6478638648986818,
+                                            "value13": -1.7410386800765992,
+                                            "value14": 1.8441791534423829,
+                                            "value15": 1.0
+                                        },
+                                        "Projection": {
+                                            "Field of View (in radians)": 1.5707963705062867,
+                                            "Near Plane": 0.10000000149011612,
+                                            "Far Plane": 200.0
+                                        }
+                                    },
+                                    "Old value": {
+                                        "Transform": {
+                                            "value0": 0.5494011640548706,
+                                            "value1": 0.8355584740638733,
+                                            "value2": 0.0,
+                                            "value3": -0.0,
+                                            "value4": -0.4202671945095062,
+                                            "value5": 0.2763364911079407,
+                                            "value6": 0.8642993569374085,
+                                            "value7": 0.0,
+                                            "value8": 0.7221728563308716,
+                                            "value9": -0.4748471975326538,
+                                            "value10": 0.5029775500297546,
+                                            "value11": -0.0,
+                                            "value12": 2.6478638648986818,
+                                            "value13": -1.7410386800765992,
+                                            "value14": 1.8441791534423829,
+                                            "value15": 1.0
+                                        },
+                                        "Projection": {
+                                            "Field of View (in radians)": 1.5707963705062867,
+                                            "Near Plane": 0.10000000149011612,
+                                            "Far Plane": 200.0
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "polymorphic_id": 4,
+                        "ptr_wrapper": {
+                            "id": 2147483700,
+                            "data": {
+                                "value0": {
+                                    "Id": "5cb54687-1132-4e6c-8bc8-d377d8ec3210",
+                                    "Value": 0.026000000536441804,
+                                    "Old value": 0.0
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "polymorphic_id": 4,
+                        "ptr_wrapper": {
+                            "id": 2147483701,
+                            "data": {
+                                "value0": {
+                                    "Id": "d687c577-808d-41a5-ae48-b0741910b3ed",
+                                    "Value": 0.0010000000474974514,
+                                    "Old value": 1.0
+                                }
+                            }
+                        }
+                    }
+                ],
+                "Position in history": {
+                    "nullopt": false,
+                    "data": 20
+                },
+                "Max size": 1000
+            },
+            "Max saved size": 100
+        },
+        "Dirty Registry": {
+            "Underlying registry": {
+                "ptr_wrapper": {
+                    "id": 4
+                }
+            }
+        },
+        "Audio": {
+            "Window": {
+                "Is open": false
+            },
+            "File input": {
+                "Path": "",
+                "Properties": {
+                    "Volume": 1.0,
+                    "Is muted": false,
+                    "Does loop": false
+                }
+            },
+            "Device input": {
+                "Input Device": {
+                    "index": 0,
+                    "data": {}
+                },
+                "Volume": 30.0
+            },
+            "Current input mode": 0,
+            "Window size for waveform": 0.05000000074505806,
+            "Window size for spectrum": 0.014999999664723874,
+            "Window size for volume": 0.20000000298023225,
+            "Spectrum max frequency in Hz": 2500.0,
+            "Spectrum height scale": 1.0,
+            "Spectrum display as bars": true
+        }
+    }
+}
