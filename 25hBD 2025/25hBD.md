@@ -1,0 +1,23 @@
+- cercles concentriques qui se rapprochent du centre, et c'estune forme qui se morph en cercle en se rapprochant du centre
+- écritures alien qui défilent
+- grille de carré, chaser, qui se promène, ptet des trucs qui clignottent
+- (pacman ?)
+- trains qui passent (de gauche et de droite, ou alors vu de dessus avec des rails un peu dans tous les sens, ou alors perspective qui partent au loin)
+- eau qui fuit, cascade, conteneur où l'eau se vide et ça révèle autre chose
+- gouttes d'eau qui se dispersent pck on fait vibrerl a table avec musique
+- goutte d'encre qui se diffuse
+- feuille qui tombe d'un arbre et qui s'en va
+- un elemnt qui a fui d'un gif arrive dans l'autre, et s'arrête, et c'est un autre truc qui se met à fuir
+- nuige de particle qui fait des jolis mouvement avant de partir
+- compte à rebour
+- trait de lumière qui passe dans une mer de formes rondes
+- fuite de prison
+- pattern très régulier (genre grille de points qui clignottent) et il y en a un qui s'enfuit
+- tuyaux de plomberie dans tous les sens, y en a qui fuit (et c'est du poison / de l'acide)
+- représenter de manière abstraite qu'on fuit qqch de difficile: genre une petite boule blanche et une grosse boule noire qui fait peur
+- pyramide de kaplas, et il y a un en bas qui s'enfuit, et ça fait tout tomber
+- qqun qui s'enfuit à travers une vitre et qui la casse
+- jeu pong, et à un moment la balle s'enfuit (ou une des raquettes?) en cassant le terrain, et les petits bâtons joueur font "han" /|\ (dépités, baissent la tête)
+- sachet de bille avec un trou
+- bateau qui s'enfuit qui a une fuite
+- truc de gaz froid qui s'échappe

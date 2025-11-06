@@ -1,0 +1,105 @@
+// To learn how to write nodes, see https://coollab-art.com/Tutorials/Writing%20Nodes/Intro
+
+INPUT int 'Selected ID';
+
+INPUT UV->Oklab_PremultipliedA 'Image 1';
+INPUT int 'ID 1';
+
+INPUT UV->Oklab_PremultipliedA 'Image 2';
+INPUT int 'ID 2';
+
+INPUT UV->Oklab_PremultipliedA 'Image 3';
+INPUT int 'ID 3';
+
+INPUT UV->Oklab_PremultipliedA 'Image 4';
+INPUT int 'ID 4';
+
+INPUT UV->Oklab_PremultipliedA 'Image 5';
+INPUT int 'ID 5';
+
+INPUT UV->Oklab_PremultipliedA 'Image 6';
+INPUT int 'ID 6';
+
+INPUT UV->Oklab_PremultipliedA 'Image 7';
+INPUT int 'ID 7';
+
+INPUT UV->Oklab_PremultipliedA 'Image 8';
+INPUT int 'ID 8';
+
+INPUT UV->Oklab_PremultipliedA 'Image 9';
+INPUT int 'ID 9';
+INPUT UV->Oklab_PremultipliedA 'Image 10';
+INPUT int 'ID 10';
+INPUT UV->Oklab_PremultipliedA 'Image 11';
+INPUT int 'ID 11';
+INPUT UV->Oklab_PremultipliedA 'Image 12';
+INPUT int 'ID 12';
+INPUT UV->Oklab_PremultipliedA 'Image 13';
+INPUT int 'ID 13';
+INPUT UV->Oklab_PremultipliedA 'Image 14';
+INPUT int 'ID 14';
+INPUT UV->Oklab_PremultipliedA 'Image 15';
+INPUT int 'ID 15';
+INPUT UV->Oklab_PremultipliedA 'Image 16';
+INPUT int 'ID 16';
+INPUT UV->Oklab_PremultipliedA 'Image 17';
+INPUT int 'ID 17';
+INPUT UV->Oklab_PremultipliedA 'Image 18';
+INPUT int 'ID 18';
+INPUT UV->Oklab_PremultipliedA 'Image 19';
+INPUT int 'ID 19';
+INPUT UV->Oklab_PremultipliedA 'Image 20';
+INPUT int 'ID 20';
+INPUT UV->Oklab_PremultipliedA 'Image 21';
+INPUT int 'ID 21';
+INPUT UV->Oklab_PremultipliedA 'Image 22';
+INPUT int 'ID 22';
+
+Oklab_PremultipliedA main(UV uv)
+{
+    return 'Selected ID' == 'ID 1'
+               ? 'Image 1'(uv)
+           : 'Selected ID' == 'ID 2'
+               ? 'Image 2'(uv)
+           : 'Selected ID' == 'ID 3'
+               ? 'Image 3'(uv)
+           : 'Selected ID' == 'ID 4'
+               ? 'Image 4'(uv)
+           : 'Selected ID' == 'ID 5'
+               ? 'Image 5'(uv)
+           : 'Selected ID' == 'ID 6'
+               ? 'Image 6'(uv)
+           : 'Selected ID' == 'ID 7'
+               ? 'Image 7'(uv)
+           : 'Selected ID' == 'ID 8'
+               ? 'Image 8'(uv)
+           : 'Selected ID' == 'ID 9'
+               ? 'Image 9'(uv)
+           : 'Selected ID' == 'ID 10'
+               ? 'Image 10'(uv)
+           : 'Selected ID' == 'ID 11'
+               ? 'Image 11'(uv)
+           : 'Selected ID' == 'ID 12'
+               ? 'Image 12'(uv)
+           : 'Selected ID' == 'ID 13'
+               ? 'Image 13'(uv)
+           : 'Selected ID' == 'ID 14'
+               ? 'Image 14'(uv)
+           : 'Selected ID' == 'ID 15'
+               ? 'Image 15'(uv)
+           : 'Selected ID' == 'ID 16'
+               ? 'Image 16'(uv)
+           : 'Selected ID' == 'ID 17'
+               ? 'Image 17'(uv)
+           : 'Selected ID' == 'ID 18'
+               ? 'Image 18'(uv)
+           : 'Selected ID' == 'ID 19'
+               ? 'Image 19'(uv)
+           : 'Selected ID' == 'ID 20'
+               ? 'Image 20'(uv)
+           : 'Selected ID' == 'ID 21'
+               ? 'Image 21'(uv)
+           : 'Selected ID' == 'ID 22'
+               ? 'Image 22'(uv)
+               : 'Image 1'(uv);
+}

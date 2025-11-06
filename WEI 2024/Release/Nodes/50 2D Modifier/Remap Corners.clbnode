@@ -1,0 +1,26 @@
+// To learn how to write nodes, see https://coollab-art.com/Tutorials/Writing%20Nodes/Intro
+
+INPUT Point2D 'BL';
+INPUT Point2D 'BR';
+INPUT Point2D 'TL';
+INPUT Point2D 'TR';
+
+UV main(UV uv)
+{
+    float ax = 'BL'.x - uv.x;
+    float ay = 'BL'.y - uv.y;
+    float bx = 'BR'.x - 'BL'.x;
+    float by = 'BR'.y - 'BL'.y;
+    float cx = 'TL'.x - 'BL'.x;
+    float cy = 'TL'.y - 'BL'.y;
+    float dx = 'TR'.x - 'TL'.x + 'BL'.x - 'BR'.x;
+    float dy = 'TR'.y - 'TL'.y + 'BL'.y - 'BR'.y;
+
+    float A     = bx * dy - by * dx;
+    float B     = bc * cy + ax * dy - by * cx - ay * dx;
+    float C     = ax * cy - ay * cx;
+    float delta = B * B - 4 * A * C;
+    float u     = (-B + sqrt(delta)) / 2. / A;
+    float v     = (-ax - u * bx) / (cx + u * dx);
+    return vec2(u, v);
+}
